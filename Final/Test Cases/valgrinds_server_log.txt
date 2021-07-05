@@ -1,0 +1,31 @@
+==3583== Memcheck, a memory error detector
+==3583== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==3583== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==3583== Command: ./server -p 5900 -o logFile -l 8 -d annual.csv
+==3583== Parent PID: 3187
+==3583== 
+==3583== 
+==3583== HEAP SUMMARY:
+==3583==     in use at exit: 0 bytes in 0 blocks
+==3583==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==3583== 
+==3583== All heap blocks were freed -- no leaks are possible
+==3583== 
+==3583== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==3584== 
+==3584== HEAP SUMMARY:
+==3584==     in use at exit: 0 bytes in 0 blocks
+==3584==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==3584== 
+==3584== All heap blocks were freed -- no leaks are possible
+==3584== 
+==3584== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==3585== Warning: invalid file descriptor -1 in syscall close()
+==3585== 
+==3585== HEAP SUMMARY:
+==3585==     in use at exit: 0 bytes in 0 blocks
+==3585==   total heap usage: 1,685,712 allocs, 1,685,712 frees, 56,989,861 bytes allocated
+==3585== 
+==3585== All heap blocks were freed -- no leaks are possible
+==3585== 
+==3585== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

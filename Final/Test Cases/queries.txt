@@ -1,0 +1,16 @@
+1 SELECT * FROM TABLE;
+1 SELECT DISTINCT Year, Variable_name, Value FROM TABLE;
+2 SELECT * FROM TABLE;
+3 UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';
+4 SELECT * FROM TABLE;
+2 SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;
+4 SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;
+3 SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;
+1 UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';
+2 UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';
+4 UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';
+4 SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;
+2 SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;
+1 SELECT Year, Variable_name, Value FROM TABLE;
+3 SELECT * FROM TABLE;
+3 UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';

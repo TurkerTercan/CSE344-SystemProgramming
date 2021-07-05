@@ -1,0 +1,112 @@
+\documentclass{article}
+
+\input{structure.tex} % Include the file specifying the document structure and custom commands
+
+%----------------------------------------------------------------------------------------
+%	ASSIGNMENT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\title{CSE 344: Homework \#1} % Title of the assignment
+
+\author{Türker Tercan\\ \texttt{turker.tercan2017@gtu.edu.tr}} % Author name and email address
+    
+
+\date{Gebze Technical University --- March 31, 2021} % University, school and/or department name(s) and a date
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Print the title
+
+\section*{Objective} % Unnumbered section
+
+You are expected to write an “advanced” file search program for POSIX compatible operating
+systems. Your program must be able to search for files satisfying the given criteria, and print out the
+results in the form of a nicely formatted tree.
+
+\begin{info} % Information block
+	The search criteria can be any combination of the following (at least one of them must be
+employed):  
+
+• -f : filename (case insensitive), supporting the following regular expression: +
+
+• -b : file size (in bytes)
+
+• -t : file type (d: directory, s: socket, b: block device, c: character device f: regular file, p:
+
+pipe, l: symbolic link)
+
+• -p : permissions, as 9 characters (e.g. ‘rwxr-xr--’)
+
+• -l: number of links
+
+
+The program will additionally receive as mandatory parameter:
+
+• -w: the path in which to search recursively (i.e. across all of its subtrees)
+
+
+\end{info}
+
+\section*{Example} % Numbered section
+
+./myFind -w targetDirectoryPath -f ‘lost+file‘ -b 100 -t b
+
+
+means it will search in the targetDirectoryPath path, for block device files named lost+file of
+size exactly 100 bytes
+
+
+\section*{Output}
+In the form of nicely formatted tree
+\begin{commandline}
+	\begin{verbatim}
+		targetDirectoryPath
+|--subDirectory
+|----subDirectory2
+|------subDirectory3
+|--------LOStttttttFile
+|--subDirectory6
+|----lOstFile
+	\end{verbatim}
+\end{commandline}
+
+If no file satisfying the search criteria has been found, then simple output “No file found”. All error
+messages are to be printed to stderr. All system calls are to be checked for failure and the user is to
+be notified accordingly.
+
+
+\section*{Implementation}
+
+In order to search for files in the directories recursively, i used opendir(), readdir() and closedir() functions in the dirent.h library which supported by POSIX. 
+I used the perror() function as much as possible against all possible errors. Always used syscalls for write(). 
+I was not sure are we allowed to use string.h library, so I implemented my own functions which I need inside of string.h. 
+The program will print usage information every time if a command line argument is missing or invalid.
+For outputting the result, I implemented a simple n-child linked list for representing the directories and files.
+And I implemented my program with below libraries:
+
+• stdio.h
+
+• stdlib.h
+
+• unistd.h
+
+• sys/stat.h
+
+• dirent.h
+
+
+\section*{Output Result - 1}
+\includegraphics[scale=0.49]{adsız.png}
+
+\section*{Output Result - 2}
+\includegraphics[scale=0.50]{adsız1.png}
+
+\section*{Checking For Memory Leaks}
+\includegraphics[scale=0.345]{adsız2.png}
+\section*{}
+\includegraphics[scale=0.354]{adsız3.png}
+
+
+\end{document}

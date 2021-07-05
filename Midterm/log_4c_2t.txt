@@ -1,0 +1,40 @@
+Welcome to the GTU344 clinic. Number of citizen to vaccinate c=4 with t=2 doses
+Nurse 0 (pid=53002) has brought vaccine 1: the clinic has 1 vaccine1 and 0 vaccine2
+Nurse 1 (pid=53003) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2
+Nurse 0 (pid=53002) has brought vaccine 1: the clinic has 3 vaccine1 and 0 vaccine2
+Nurse 0 (pid=53002) has brought vaccine 1: the clinic has 4 vaccine1 and 0 vaccine2
+Nurse 1 (pid=53003) has brought vaccine 2: the clinic has 4 vaccine1 and 1 vaccine2
+Nurse 0 (pid=53002) has brought vaccine 2: the clinic has 3 vaccine1 and 1 vaccine2
+Nurse 1 (pid=53003) has brought vaccine 1: the clinic has 4 vaccine1 and 1 vaccine2
+Nurse 0 (pid=53002) has brought vaccine 2: the clinic has 3 vaccine1 and 1 vaccine2
+Nurse 1 (pid=53003) has brought vaccine 1: the clinic has 4 vaccine1 and 1 vaccine2
+Vaccinator 0 (pid=53000) is inviting citizen pid=53004 to the clinic
+Citizen 0 (pid=53004) is vaccinated for the 1st time: the clinic has 3 vaccine1 and 0 vaccine2.
+Vaccinator 0 (pid=53000) is inviting citizen pid=53004 to the clinic
+Nurse 0 (pid=53002) has brought vaccine 2: the clinic has 3 vaccine1 and 1 vaccine2
+Citizen 0 (pid=53004) is vaccinated for the 2nd time: the clinic has 3 vaccine1 and 0 vaccine2.
+Nurse 0 (pid=53002) has brought vaccine 1: the clinic has 3 vaccine1 and 0 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 3
+Vaccinator 0 (pid=53000) is inviting citizen pid=53005 to the clinic
+Citizen 1 (pid=53005) is vaccinated for the 1st time: the clinic has 2 vaccine1 and 0 vaccine2.
+Nurse 1 (pid=53003) has brought vaccine 2: the clinic has 3 vaccine1 and 1 vaccine2
+Citizen 1 (pid=53005) is vaccinated for the 2nd time: the clinic has 3 vaccine1 and 0 vaccine2.
+Vaccinator 1 (pid=53001) is inviting citizen pid=53005 to the clinic
+Citizen is leaving. Remaining citizens to vaccinate: 3
+Vaccinator 0 (pid=53000) is inviting citizen pid=53006 to the clinic
+Nurse 0 (pid=53002) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Vaccinator 0 (pid=53000) is inviting citizen pid=53006 to the clinic
+Nurse 0 (pid=53002) has brought vaccine 2: the clinic has 1 vaccine1 and 1 vaccine2
+Citizen 2 (pid=53006) is vaccinated for the 1st time: the clinic has 2 vaccine1 and 0 vaccine2.
+Nurse 0 (pid=53002) has brought vaccine 2: the clinic has 0 vaccine1 and 1 vaccine2
+Citizen 2 (pid=53006) is vaccinated for the 2nd time: the clinic has 1 vaccine1 and 0 vaccine2.
+Vaccinator 1 (pid=53001) is inviting citizen pid=53007 to the clinic
+Citizen is leaving. Remaining citizens to vaccinate: 1
+Citizen 3 (pid=53007) is vaccinated for the 1st time: the clinic has 0 vaccine1 and 0 vaccine2.
+Nurse 1 (pid=53003) has brought vaccine 1: the clinic has 1 vaccine1 and 1 vaccine2
+Vaccinator 0 (pid=53000) is inviting citizen pid=53007 to the clinic
+Citizen 3 (pid=53007) is vaccinated for the 2nd time: the clinic has 0 vaccine1 and 0 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 0
+Nurses have carried all vaccines to the buffer, terminating.
+All citizens have been vaccinated.
+Vaccinator 0 (pid=53000) vaccinated 6 doses. Vaccinator 1 (pid=53001) vaccinated 2 doses. The clinic is now closed. Stay Healthy.

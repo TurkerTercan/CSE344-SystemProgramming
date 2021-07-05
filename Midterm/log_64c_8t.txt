@@ -1,0 +1,2116 @@
+Welcome to the GTU344 clinic. Number of citizen to vaccinate c=64 with t=8 doses
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 1 vaccine1 and 0 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 5 vaccine1 and 3 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 4 vaccine1 and 4 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 4 vaccine1 and 3 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 4 vaccine1 and 5 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 4 vaccine1 and 4 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 3 vaccine1 and 5 vaccine2
+Citizen 0 (pid=53373) is vaccinated for the 1st time: the clinic has 4 vaccine1 and 3 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 3 vaccine1 and 4 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 3 vaccine1 and 3 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 4 vaccine1 and 3 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 4 vaccine1 and 2 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53373 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 4 vaccine1 and 1 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 3 vaccine1 and 0 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 4 vaccine1 and 2 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 4 vaccine1 and 0 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 3 vaccine1 and 1 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53373 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 4 vaccine1 and 1 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 3 vaccine1 and 2 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53373 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 3 vaccine1 and 3 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 4 vaccine1 and 3 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 3 vaccine1 and 1 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 4 vaccine1 and 3 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 4 vaccine1 and 2 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 4 vaccine1 and 4 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53373 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 5 vaccine1 and 4 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 5 vaccine1 and 4 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 4 vaccine1 and 4 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 7 vaccine1 and 4 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 6 vaccine1 and 4 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 7 vaccine1 and 5 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53373 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 7 vaccine1 and 5 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 6 vaccine1 and 5 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 7 vaccine1 and 6 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 8 vaccine1 and 6 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 8 vaccine1 and 7 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 8 vaccine1 and 8 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 7 vaccine1 and 8 vaccine2
+Citizen 0 (pid=53373) is vaccinated for the 2nd time: the clinic has 3 vaccine1 and 3 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 8 vaccine1 and 8 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 3 vaccine1 and 2 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 12 vaccine1 and 10 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 2 vaccine1 and 2 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 13 vaccine1 and 10 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 13 vaccine1 and 11 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 8 vaccine1 and 9 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 14 vaccine1 and 12 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 13 vaccine1 and 12 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53373 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 14 vaccine1 and 13 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 15 vaccine1 and 13 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 8 vaccine1 and 10 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 15 vaccine1 and 14 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 15 vaccine1 and 15 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 9 vaccine1 and 10 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53373 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 15 vaccine1 and 15 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 15 vaccine1 and 14 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 10 vaccine1 and 10 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 16 vaccine1 and 15 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 16 vaccine1 and 17 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 16 vaccine1 and 16 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 17 vaccine1 and 17 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53373 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 17 vaccine1 and 16 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 18 vaccine1 and 17 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 18 vaccine1 and 16 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 18 vaccine1 and 18 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 19 vaccine1 and 18 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 19 vaccine1 and 19 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 19 vaccine1 and 19 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 20 vaccine1 and 19 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53374 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 20 vaccine1 and 20 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 20 vaccine1 and 21 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 21 vaccine1 and 21 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 19 vaccine1 and 18 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 22 vaccine1 and 22 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 22 vaccine1 and 21 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 22 vaccine1 and 23 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53374 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 22 vaccine1 and 22 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 23 vaccine1 and 22 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 24 vaccine1 and 22 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 25 vaccine1 and 22 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 25 vaccine1 and 23 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 25 vaccine1 and 24 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53374 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 25 vaccine1 and 23 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 25 vaccine1 and 24 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 26 vaccine1 and 24 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 26 vaccine1 and 25 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 26 vaccine1 and 26 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 27 vaccine1 and 26 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53374 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 26 vaccine1 and 26 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 27 vaccine1 and 26 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 27 vaccine1 and 27 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 27 vaccine1 and 28 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 28 vaccine1 and 28 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 29 vaccine1 and 28 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53374 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 29 vaccine1 and 27 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 30 vaccine1 and 27 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 30 vaccine1 and 28 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 30 vaccine1 and 29 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 31 vaccine1 and 29 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 31 vaccine1 and 30 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 32 vaccine1 and 30 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53374 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 31 vaccine1 and 30 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 31 vaccine1 and 31 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 32 vaccine1 and 31 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 32 vaccine1 and 32 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 33 vaccine1 and 32 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 33 vaccine1 and 33 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 33 vaccine1 and 34 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53374 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 33 vaccine1 and 33 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 34 vaccine1 and 33 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 35 vaccine1 and 33 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 36 vaccine1 and 33 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 36 vaccine1 and 34 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 37 vaccine1 and 35 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 36 vaccine1 and 35 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53374 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 36 vaccine1 and 35 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 37 vaccine1 and 35 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 37 vaccine1 and 36 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 37 vaccine1 and 37 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 38 vaccine1 and 37 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 38 vaccine1 and 38 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 39 vaccine1 and 38 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 38 vaccine1 and 39 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 39 vaccine1 and 39 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53375 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 40 vaccine1 and 39 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 41 vaccine1 and 39 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 42 vaccine1 and 39 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 42 vaccine1 and 40 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 42 vaccine1 and 41 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 43 vaccine1 and 41 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 42 vaccine1 and 41 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53375 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 43 vaccine1 and 41 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 43 vaccine1 and 42 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 43 vaccine1 and 43 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 44 vaccine1 and 43 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 44 vaccine1 and 44 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 45 vaccine1 and 44 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53375 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 44 vaccine1 and 44 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 44 vaccine1 and 45 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 45 vaccine1 and 45 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 46 vaccine1 and 45 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 47 vaccine1 and 45 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 48 vaccine1 and 45 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53375 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 47 vaccine1 and 45 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 47 vaccine1 and 46 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 48 vaccine1 and 46 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 48 vaccine1 and 47 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 49 vaccine1 and 47 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 49 vaccine1 and 48 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 48 vaccine1 and 48 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53375 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 49 vaccine1 and 48 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 49 vaccine1 and 49 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 50 vaccine1 and 49 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 50 vaccine1 and 50 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 50 vaccine1 and 51 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 51 vaccine1 and 51 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53375 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 51 vaccine1 and 50 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 52 vaccine1 and 50 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 53 vaccine1 and 50 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 53 vaccine1 and 51 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 53 vaccine1 and 52 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 54 vaccine1 and 52 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53375 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 53 vaccine1 and 52 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 54 vaccine1 and 52 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 54 vaccine1 and 53 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 54 vaccine1 and 54 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 55 vaccine1 and 54 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 55 vaccine1 and 55 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53375 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 55 vaccine1 and 54 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 55 vaccine1 and 55 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 55 vaccine1 and 56 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 56 vaccine1 and 56 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 57 vaccine1 and 56 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 58 vaccine1 and 56 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 58 vaccine1 and 55 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53376 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 58 vaccine1 and 56 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 58 vaccine1 and 57 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 59 vaccine1 and 57 vaccine2
+Citizen 3 (pid=53376) is vaccinated for the 1st time: the clinic has 57 vaccine1 and 55 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 59 vaccine1 and 58 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 60 vaccine1 and 58 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 60 vaccine1 and 59 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53376 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 59 vaccine1 and 59 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 60 vaccine1 and 60 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 60 vaccine1 and 59 vaccine2
+Citizen 3 (pid=53376) is vaccinated for the 2nd time: the clinic has 59 vaccine1 and 58 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 61 vaccine1 and 60 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 61 vaccine1 and 61 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 61 vaccine1 and 62 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53376 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 62 vaccine1 and 61 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 61 vaccine1 and 61 vaccine2
+Citizen 3 (pid=53376) is vaccinated for the 3th time: the clinic has 60 vaccine1 and 61 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 63 vaccine1 and 61 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 64 vaccine1 and 61 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 64 vaccine1 and 62 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 64 vaccine1 and 63 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 64 vaccine1 and 62 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53376 to the clinic
+Citizen 3 (pid=53376) is vaccinated for the 4th time: the clinic has 63 vaccine1 and 62 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 64 vaccine1 and 63 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 65 vaccine1 and 64 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 65 vaccine1 and 63 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 65 vaccine1 and 65 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 66 vaccine1 and 65 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 66 vaccine1 and 66 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53376 to the clinic
+Citizen 3 (pid=53376) is vaccinated for the 5th time: the clinic has 65 vaccine1 and 65 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 66 vaccine1 and 66 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53376 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 66 vaccine1 and 65 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 67 vaccine1 and 67 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 66 vaccine1 and 67 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 68 vaccine1 and 67 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 69 vaccine1 and 67 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 69 vaccine1 and 66 vaccine2
+Citizen 3 (pid=53376) is vaccinated for the 6th time: the clinic has 68 vaccine1 and 66 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53376 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 68 vaccine1 and 67 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 68 vaccine1 and 66 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 69 vaccine1 and 68 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 69 vaccine1 and 67 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 70 vaccine1 and 68 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 70 vaccine1 and 69 vaccine2
+Citizen 3 (pid=53376) is vaccinated for the 7th time: the clinic has 68 vaccine1 and 65 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53376 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 69 vaccine1 and 69 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 70 vaccine1 and 70 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 70 vaccine1 and 69 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 71 vaccine1 and 71 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 71 vaccine1 and 70 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 71 vaccine1 and 72 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 71 vaccine1 and 71 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 72 vaccine1 and 71 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53377 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 74 vaccine1 and 71 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 73 vaccine1 and 71 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 74 vaccine1 and 73 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 74 vaccine1 and 72 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 75 vaccine1 and 73 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 75 vaccine1 and 74 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53377 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 75 vaccine1 and 73 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 75 vaccine1 and 75 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 75 vaccine1 and 74 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 76 vaccine1 and 76 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 76 vaccine1 and 75 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 77 vaccine1 and 76 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53377 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 76 vaccine1 and 76 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 76 vaccine1 and 77 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 78 vaccine1 and 77 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 77 vaccine1 and 77 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 80 vaccine1 and 77 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 79 vaccine1 and 77 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53377 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 79 vaccine1 and 77 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 79 vaccine1 and 78 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 80 vaccine1 and 78 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 81 vaccine1 and 79 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 80 vaccine1 and 79 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 81 vaccine1 and 80 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 81 vaccine1 and 79 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53377 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 81 vaccine1 and 80 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 82 vaccine1 and 80 vaccine2
+Citizen 4 (pid=53377) is vaccinated for the 1st time: the clinic has 70 vaccine1 and 71 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 82 vaccine1 and 81 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 82 vaccine1 and 82 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 83 vaccine1 and 82 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53377 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 83 vaccine1 and 81 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 84 vaccine1 and 81 vaccine2
+Citizen 4 (pid=53377) is vaccinated for the 2nd time: the clinic has 74 vaccine1 and 73 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 85 vaccine1 and 81 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 85 vaccine1 and 83 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 85 vaccine1 and 82 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53377 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 85 vaccine1 and 82 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 85 vaccine1 and 83 vaccine2
+Citizen 4 (pid=53377) is vaccinated for the 3th time: the clinic has 76 vaccine1 and 75 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 86 vaccine1 and 83 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 86 vaccine1 and 84 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 86 vaccine1 and 85 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53377 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 86 vaccine1 and 84 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 86 vaccine1 and 85 vaccine2
+Citizen 4 (pid=53377) is vaccinated for the 4th time: the clinic has 79 vaccine1 and 76 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 87 vaccine1 and 85 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 87 vaccine1 and 86 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 87 vaccine1 and 87 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 87 vaccine1 and 86 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 88 vaccine1 and 86 vaccine2
+Citizen 4 (pid=53377) is vaccinated for the 5th time: the clinic has 80 vaccine1 and 79 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53378 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 89 vaccine1 and 86 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 90 vaccine1 and 86 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 90 vaccine1 and 87 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 90 vaccine1 and 88 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 91 vaccine1 and 88 vaccine2
+Citizen 4 (pid=53377) is vaccinated for the 6th time: the clinic has 82 vaccine1 and 81 vaccine2.
+Citizen 5 (pid=53378) is vaccinated for the 1st time: the clinic has 86 vaccine1 and 86 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53378 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 90 vaccine1 and 88 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 91 vaccine1 and 88 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 91 vaccine1 and 89 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 91 vaccine1 and 90 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 92 vaccine1 and 90 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 92 vaccine1 and 92 vaccine2
+Citizen 4 (pid=53377) is vaccinated for the 7th time: the clinic has 84 vaccine1 and 82 vaccine2.
+Citizen 5 (pid=53378) is vaccinated for the 2nd time: the clinic has 90 vaccine1 and 87 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53378 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 91 vaccine1 and 90 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 92 vaccine1 and 90 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 92 vaccine1 and 91 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 93 vaccine1 and 92 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 94 vaccine1 and 92 vaccine2
+Citizen 4 (pid=53377) is vaccinated for the 8th time: the clinic has 85 vaccine1 and 84 vaccine2.
+Citizen 5 (pid=53378) is vaccinated for the 3th time: the clinic has 91 vaccine1 and 89 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 94 vaccine1 and 91 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53378 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 95 vaccine1 and 91 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 95 vaccine1 and 92 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 95 vaccine1 and 93 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 96 vaccine1 and 93 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 59
+Citizen 5 (pid=53378) is vaccinated for the 4th time: the clinic has 93 vaccine1 and 91 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 96 vaccine1 and 94 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53378 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 96 vaccine1 and 93 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 96 vaccine1 and 94 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 96 vaccine1 and 95 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 97 vaccine1 and 95 vaccine2
+Citizen 5 (pid=53378) is vaccinated for the 5th time: the clinic has 95 vaccine1 and 93 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 97 vaccine1 and 96 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53378 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 97 vaccine1 and 95 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 97 vaccine1 and 96 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 97 vaccine1 and 97 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 98 vaccine1 and 97 vaccine2
+Citizen 5 (pid=53378) is vaccinated for the 6th time: the clinic has 96 vaccine1 and 95 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 99 vaccine1 and 97 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53378 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 99 vaccine1 and 96 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 100 vaccine1 and 96 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 100 vaccine1 and 97 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 100 vaccine1 and 98 vaccine2
+Citizen 5 (pid=53378) is vaccinated for the 7th time: the clinic has 98 vaccine1 and 96 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 101 vaccine1 and 98 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 100 vaccine1 and 98 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 102 vaccine1 and 100 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 101 vaccine1 and 98 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 103 vaccine1 and 101 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53378 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 101 vaccine1 and 99 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 101 vaccine1 and 100 vaccine2
+Citizen 5 (pid=53378) is vaccinated for the 8th time: the clinic has 100 vaccine1 and 97 vaccine2.
+Citizen 1 (pid=53374) is vaccinated for the 1st time: the clinic has 18 vaccine1 and 18 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 102 vaccine1 and 101 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 103 vaccine1 and 102 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 103 vaccine1 and 103 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 103 vaccine1 and 102 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 104 vaccine1 and 102 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 58
+Vaccinator 8 (pid=53361) is inviting citizen pid=53379 to the clinic
+Citizen 1 (pid=53374) is vaccinated for the 2nd time: the clinic has 21 vaccine1 and 22 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 105 vaccine1 and 102 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 106 vaccine1 and 102 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 106 vaccine1 and 104 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 107 vaccine1 and 104 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 106 vaccine1 and 103 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 106 vaccine1 and 104 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 107 vaccine1 and 104 vaccine2
+Citizen 1 (pid=53374) is vaccinated for the 3th time: the clinic has 24 vaccine1 and 23 vaccine2.
+Citizen 1 (pid=53374) is vaccinated for the 4th time: the clinic has 26 vaccine1 and 25 vaccine2.
+Citizen 0 (pid=53373) is vaccinated for the 3th time: the clinic has 2 vaccine1 and 1 vaccine2.
+Citizen 1 (pid=53374) is vaccinated for the 5th time: the clinic has 28 vaccine1 and 27 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 11 vaccine1 and 10 vaccine2
+Citizen 1 (pid=53374) is vaccinated for the 6th time: the clinic has 31 vaccine1 and 29 vaccine2.
+Citizen 0 (pid=53373) is vaccinated for the 4th time: the clinic has 3 vaccine1 and 3 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 3 vaccine1 and 4 vaccine2
+Citizen 2 (pid=53375) is vaccinated for the 1st time: the clinic has 38 vaccine1 and 37 vaccine2.
+Citizen 1 (pid=53374) is vaccinated for the 7th time: the clinic has 32 vaccine1 and 33 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 38 vaccine1 and 38 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 108 vaccine1 and 107 vaccine2
+Citizen 0 (pid=53373) is vaccinated for the 5th time: the clinic has 6 vaccine1 and 4 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 109 vaccine1 and 107 vaccine2
+Citizen 2 (pid=53375) is vaccinated for the 2nd time: the clinic has 42 vaccine1 and 40 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 109 vaccine1 and 108 vaccine2
+Citizen 1 (pid=53374) is vaccinated for the 8th time: the clinic has 36 vaccine1 and 34 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 110 vaccine1 and 108 vaccine2
+Citizen 0 (pid=53373) is vaccinated for the 6th time: the clinic has 3 vaccine1 and 2 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 112 vaccine1 and 108 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 111 vaccine1 and 108 vaccine2
+Citizen 2 (pid=53375) is vaccinated for the 3th time: the clinic has 44 vaccine1 and 43 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 113 vaccine1 and 108 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 58
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 113 vaccine1 and 109 vaccine2
+Citizen 0 (pid=53373) is vaccinated for the 7th time: the clinic has 14 vaccine1 and 14 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 113 vaccine1 and 110 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 114 vaccine1 and 110 vaccine2
+Citizen 2 (pid=53375) is vaccinated for the 4th time: the clinic has 47 vaccine1 and 44 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 114 vaccine1 and 111 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 115 vaccine1 and 111 vaccine2
+Citizen 0 (pid=53373) is vaccinated for the 8th time: the clinic has 16 vaccine1 and 16 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 115 vaccine1 and 112 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 115 vaccine1 and 113 vaccine2
+Citizen 2 (pid=53375) is vaccinated for the 5th time: the clinic has 48 vaccine1 and 47 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 116 vaccine1 and 113 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 116 vaccine1 and 114 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 58
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 117 vaccine1 and 114 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 117 vaccine1 and 115 vaccine2
+Citizen 2 (pid=53375) is vaccinated for the 6th time: the clinic has 50 vaccine1 and 50 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 117 vaccine1 and 116 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 118 vaccine1 and 116 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 119 vaccine1 and 116 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 120 vaccine1 and 116 vaccine2
+Citizen 6 (pid=53379) is vaccinated for the 1st time: the clinic has 102 vaccine1 and 102 vaccine2.
+Citizen 2 (pid=53375) is vaccinated for the 7th time: the clinic has 53 vaccine1 and 51 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 121 vaccine1 and 116 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 121 vaccine1 and 117 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 121 vaccine1 and 118 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 122 vaccine1 and 118 vaccine2
+Citizen 6 (pid=53379) is vaccinated for the 2nd time: the clinic has 106 vaccine1 and 103 vaccine2.
+Citizen 2 (pid=53375) is vaccinated for the 8th time: the clinic has 54 vaccine1 and 54 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 122 vaccine1 and 119 vaccine2
+Citizen 3 (pid=53376) is vaccinated for the 8th time: the clinic has 69 vaccine1 and 68 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 123 vaccine1 and 119 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 123 vaccine1 and 120 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 123 vaccine1 and 121 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 58
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 124 vaccine1 and 121 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 124 vaccine1 and 122 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 58
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 125 vaccine1 and 122 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 125 vaccine1 and 123 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 127 vaccine1 and 124 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 125 vaccine1 and 124 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 126 vaccine1 and 124 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 128 vaccine1 and 124 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 129 vaccine1 and 124 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 129 vaccine1 and 125 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 129 vaccine1 and 126 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 130 vaccine1 and 126 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 130 vaccine1 and 127 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 131 vaccine1 and 127 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 131 vaccine1 and 128 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 131 vaccine1 and 129 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 132 vaccine1 and 129 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 132 vaccine1 and 130 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 133 vaccine1 and 130 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 133 vaccine1 and 131 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 133 vaccine1 and 132 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 134 vaccine1 and 132 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 135 vaccine1 and 132 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 136 vaccine1 and 132 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 137 vaccine1 and 132 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 137 vaccine1 and 134 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 137 vaccine1 and 133 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 137 vaccine1 and 135 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 139 vaccine1 and 137 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 138 vaccine1 and 135 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 138 vaccine1 and 136 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 139 vaccine1 and 136 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53379 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 139 vaccine1 and 138 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 140 vaccine1 and 138 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 140 vaccine1 and 139 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 107 vaccine1 and 105 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 141 vaccine1 and 140 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 141 vaccine1 and 139 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 141 vaccine1 and 140 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 107 vaccine1 and 106 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 141 vaccine1 and 141 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 142 vaccine1 and 140 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 108 vaccine1 and 106 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 143 vaccine1 and 141 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 143 vaccine1 and 140 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 143 vaccine1 and 142 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53379 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 144 vaccine1 and 142 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 144 vaccine1 and 143 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 108 vaccine1 and 107 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 145 vaccine1 and 143 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 145 vaccine1 and 144 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 146 vaccine1 and 144 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 146 vaccine1 and 145 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 147 vaccine1 and 145 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53379 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 147 vaccine1 and 145 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 146 vaccine1 and 145 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 147 vaccine1 and 146 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 148 vaccine1 and 146 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 149 vaccine1 and 146 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 109 vaccine1 and 107 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 149 vaccine1 and 147 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 150 vaccine1 and 147 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 150 vaccine1 and 146 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53379 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 151 vaccine1 and 147 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 150 vaccine1 and 147 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 151 vaccine1 and 148 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 151 vaccine1 and 149 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 152 vaccine1 and 149 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 152 vaccine1 and 150 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 153 vaccine1 and 150 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53379 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 152 vaccine1 and 150 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 153 vaccine1 and 150 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 153 vaccine1 and 151 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 154 vaccine1 and 151 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 155 vaccine1 and 151 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 156 vaccine1 and 151 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 156 vaccine1 and 152 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53379 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 156 vaccine1 and 151 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 156 vaccine1 and 152 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 156 vaccine1 and 153 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 157 vaccine1 and 153 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 157 vaccine1 and 154 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 157 vaccine1 and 155 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 159 vaccine1 and 156 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 158 vaccine1 and 155 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 158 vaccine1 and 154 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53379 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 158 vaccine1 and 155 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 158 vaccine1 and 156 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 160 vaccine1 and 156 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 161 vaccine1 and 156 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 162 vaccine1 and 156 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 162 vaccine1 and 158 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 162 vaccine1 and 157 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 162 vaccine1 and 159 vaccine2
+Citizen 6 (pid=53379) is vaccinated for the 3th time: the clinic has 2 vaccine1 and 3 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 163 vaccine1 and 159 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 162 vaccine1 and 158 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 165 vaccine1 and 162 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 163 vaccine1 and 160 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 163 vaccine1 and 161 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 164 vaccine1 and 161 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 164 vaccine1 and 162 vaccine2
+Citizen 6 (pid=53379) is vaccinated for the 4th time: the clinic has 146 vaccine1 and 144 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53380 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 165 vaccine1 and 163 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 165 vaccine1 and 164 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 166 vaccine1 and 164 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 167 vaccine1 and 164 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 168 vaccine1 and 164 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 169 vaccine1 and 164 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 170 vaccine1 and 166 vaccine2
+Citizen 6 (pid=53379) is vaccinated for the 5th time: the clinic has 149 vaccine1 and 146 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 170 vaccine1 and 168 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 169 vaccine1 and 165 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53380 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 168 vaccine1 and 165 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 169 vaccine1 and 165 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 169 vaccine1 and 166 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 170 vaccine1 and 167 vaccine2
+Citizen 6 (pid=53379) is vaccinated for the 6th time: the clinic has 152 vaccine1 and 149 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 171 vaccine1 and 168 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 171 vaccine1 and 169 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 170 vaccine1 and 169 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 170 vaccine1 and 170 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 171 vaccine1 and 170 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 174 vaccine1 and 171 vaccine2
+Citizen 6 (pid=53379) is vaccinated for the 7th time: the clinic has 155 vaccine1 and 151 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 172 vaccine1 and 170 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53380 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 173 vaccine1 and 170 vaccine2
+Citizen 7 (pid=53380) is vaccinated for the 1st time: the clinic has 3 vaccine1 and 1 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 174 vaccine1 and 170 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 174 vaccine1 and 172 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 175 vaccine1 and 172 vaccine2
+Citizen 6 (pid=53379) is vaccinated for the 8th time: the clinic has 157 vaccine1 and 154 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 176 vaccine1 and 174 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 175 vaccine1 and 173 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 176 vaccine1 and 173 vaccine2
+Citizen 7 (pid=53380) is vaccinated for the 2nd time: the clinic has 168 vaccine1 and 164 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53380 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 175 vaccine1 and 173 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 175 vaccine1 and 174 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 57
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 176 vaccine1 and 175 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 177 vaccine1 and 175 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 177 vaccine1 and 176 vaccine2
+Citizen 7 (pid=53380) is vaccinated for the 3th time: the clinic has 2 vaccine1 and 4 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53380 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 177 vaccine1 and 175 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 177 vaccine1 and 176 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 178 vaccine1 and 176 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 179 vaccine1 and 176 vaccine2
+Citizen 7 (pid=53380) is vaccinated for the 4th time: the clinic has 175 vaccine1 and 172 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53380 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 180 vaccine1 and 176 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 180 vaccine1 and 176 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 179 vaccine1 and 176 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 180 vaccine1 and 177 vaccine2
+Citizen 7 (pid=53380) is vaccinated for the 5th time: the clinic has 176 vaccine1 and 175 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 180 vaccine1 and 178 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 179 vaccine1 and 178 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53380 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 179 vaccine1 and 179 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 180 vaccine1 and 179 vaccine2
+Citizen 7 (pid=53380) is vaccinated for the 6th time: the clinic has 179 vaccine1 and 175 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 181 vaccine1 and 179 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 181 vaccine1 and 180 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 182 vaccine1 and 180 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 181 vaccine1 and 180 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53380 to the clinic
+Citizen 7 (pid=53380) is vaccinated for the 7th time: the clinic has 179 vaccine1 and 177 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 181 vaccine1 and 181 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 182 vaccine1 and 181 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 183 vaccine1 and 181 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 184 vaccine1 and 181 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 185 vaccine1 and 181 vaccine2
+Citizen 7 (pid=53380) is vaccinated for the 8th time: the clinic has 181 vaccine1 and 179 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 184 vaccine1 and 181 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 185 vaccine1 and 182 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53381 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 185 vaccine1 and 183 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 186 vaccine1 and 183 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 56
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 186 vaccine1 and 184 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 186 vaccine1 and 185 vaccine2
+Citizen 8 (pid=53381) is vaccinated for the 1st time: the clinic has 184 vaccine1 and 180 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 185 vaccine1 and 185 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 186 vaccine1 and 185 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 187 vaccine1 and 185 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53381 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 187 vaccine1 and 186 vaccine2
+Citizen 8 (pid=53381) is vaccinated for the 2nd time: the clinic has 3 vaccine1 and 1 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 188 vaccine1 and 186 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 188 vaccine1 and 187 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 189 vaccine1 and 187 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 190 vaccine1 and 187 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 191 vaccine1 and 187 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 192 vaccine1 and 187 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 192 vaccine1 and 188 vaccine2
+Citizen 8 (pid=53381) is vaccinated for the 3th time: the clinic has 2 vaccine1 and 0 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 193 vaccine1 and 188 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 193 vaccine1 and 189 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53381 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 193 vaccine1 and 190 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 193 vaccine1 and 191 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 194 vaccine1 and 191 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 194 vaccine1 and 192 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 194 vaccine1 and 193 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 195 vaccine1 and 193 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53381 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 196 vaccine1 and 194 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 195 vaccine1 and 194 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 194 vaccine1 and 194 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 195 vaccine1 and 194 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53381 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 197 vaccine1 and 194 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 198 vaccine1 and 194 vaccine2
+Citizen 8 (pid=53381) is vaccinated for the 4th time: the clinic has 161 vaccine1 and 157 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 199 vaccine1 and 194 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 199 vaccine1 and 195 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53381 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 199 vaccine1 and 194 vaccine2
+Citizen 8 (pid=53381) is vaccinated for the 5th time: the clinic has 140 vaccine1 and 140 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 199 vaccine1 and 195 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 199 vaccine1 and 196 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 199 vaccine1 and 197 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 200 vaccine1 and 197 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 200 vaccine1 and 198 vaccine2
+Citizen 8 (pid=53381) is vaccinated for the 6th time: the clinic has 170 vaccine1 and 168 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 200 vaccine1 and 199 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 201 vaccine1 and 199 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53381 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 201 vaccine1 and 200 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 202 vaccine1 and 200 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 202 vaccine1 and 201 vaccine2
+Citizen 8 (pid=53381) is vaccinated for the 7th time: the clinic has 3 vaccine1 and 4 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 202 vaccine1 and 202 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 203 vaccine1 and 202 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 205 vaccine1 and 202 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 204 vaccine1 and 202 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53381 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 206 vaccine1 and 202 vaccine2
+Citizen 8 (pid=53381) is vaccinated for the 8th time: the clinic has 194 vaccine1 and 193 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 205 vaccine1 and 202 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 205 vaccine1 and 203 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 206 vaccine1 and 203 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 206 vaccine1 and 204 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 205 vaccine1 and 204 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 205 vaccine1 and 205 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 206 vaccine1 and 205 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 184 vaccine1 and 182 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 206 vaccine1 and 206 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53382 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 162 vaccine1 and 157 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 207 vaccine1 and 206 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 55
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 208 vaccine1 and 206 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 207 vaccine1 and 206 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 208 vaccine1 and 206 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 209 vaccine1 and 206 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53382 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 209 vaccine1 and 205 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 210 vaccine1 and 205 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 210 vaccine1 and 206 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 211 vaccine1 and 206 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 211 vaccine1 and 207 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 212 vaccine1 and 208 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 211 vaccine1 and 208 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53382 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 212 vaccine1 and 209 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 212 vaccine1 and 210 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 211 vaccine1 and 210 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 211 vaccine1 and 211 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53382 to the clinic
+Vaccinator 2 (pid=53355) is inviting citizen pid=53382 to the clinic
+Citizen 9 (pid=53382) is vaccinated for the 1st time: the clinic has 205 vaccine1 and 203 vaccine2.
+Citizen 9 (pid=53382) is vaccinated for the 2nd time: the clinic has 208 vaccine1 and 205 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53382 to the clinic
+Citizen 9 (pid=53382) is vaccinated for the 3th time: the clinic has 185 vaccine1 and 184 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 206 vaccine1 and 207 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 207 vaccine1 and 207 vaccine2
+Citizen 9 (pid=53382) is vaccinated for the 4th time: the clinic has 108 vaccine1 and 106 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53382 to the clinic
+Citizen 9 (pid=53382) is vaccinated for the 5th time: the clinic has 208 vaccine1 and 208 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 206 vaccine1 and 207 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 207 vaccine1 and 207 vaccine2
+Citizen 9 (pid=53382) is vaccinated for the 6th time: the clinic has 207 vaccine1 and 207 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 207 vaccine1 and 208 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53382 to the clinic
+Citizen 9 (pid=53382) is vaccinated for the 7th time: the clinic has 211 vaccine1 and 209 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 206 vaccine1 and 208 vaccine2
+Citizen 9 (pid=53382) is vaccinated for the 8th time: the clinic has 198 vaccine1 and 194 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 54
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 206 vaccine1 and 207 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53383 to the clinic
+Citizen 10 (pid=53383) is vaccinated for the 1st time: the clinic has 2 vaccine1 and 0 vaccine2.
+Citizen 10 (pid=53383) is vaccinated for the 2nd time: the clinic has 210 vaccine1 and 210 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53383 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 206 vaccine1 and 206 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53383 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 206 vaccine1 and 205 vaccine2
+Citizen 10 (pid=53383) is vaccinated for the 3th time: the clinic has 7 vaccine1 and 7 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 206 vaccine1 and 206 vaccine2
+Citizen 10 (pid=53383) is vaccinated for the 4th time: the clinic has 209 vaccine1 and 209 vaccine2.
+Vaccinator 1 (pid=53354) is inviting citizen pid=53383 to the clinic
+Vaccinator 7 (pid=53360) is inviting citizen pid=53383 to the clinic
+Citizen 10 (pid=53383) is vaccinated for the 5th time: the clinic has 205 vaccine1 and 201 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 204 vaccine1 and 205 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53383 to the clinic
+Citizen 10 (pid=53383) is vaccinated for the 6th time: the clinic has 207 vaccine1 and 205 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 204 vaccine1 and 204 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53383 to the clinic
+Citizen 10 (pid=53383) is vaccinated for the 7th time: the clinic has 206 vaccine1 and 206 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 204 vaccine1 and 203 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53383 to the clinic
+Citizen 10 (pid=53383) is vaccinated for the 8th time: the clinic has 206 vaccine1 and 206 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 203 vaccine1 and 203 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 53
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 203 vaccine1 and 202 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53384 to the clinic
+Citizen 11 (pid=53384) is vaccinated for the 1st time: the clinic has 206 vaccine1 and 207 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53384 to the clinic
+Citizen 11 (pid=53384) is vaccinated for the 2nd time: the clinic has 205 vaccine1 and 207 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 202 vaccine1 and 202 vaccine2
+Citizen 11 (pid=53384) is vaccinated for the 3th time: the clinic has 205 vaccine1 and 206 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53384 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 201 vaccine1 and 202 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53384 to the clinic
+Citizen 11 (pid=53384) is vaccinated for the 4th time: the clinic has 205 vaccine1 and 205 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 200 vaccine1 and 202 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53384 to the clinic
+Citizen 11 (pid=53384) is vaccinated for the 5th time: the clinic has 205 vaccine1 and 205 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 200 vaccine1 and 201 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53384 to the clinic
+Citizen 11 (pid=53384) is vaccinated for the 6th time: the clinic has 204 vaccine1 and 204 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 200 vaccine1 and 200 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53384 to the clinic
+Citizen 11 (pid=53384) is vaccinated for the 7th time: the clinic has 203 vaccine1 and 204 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 199 vaccine1 and 200 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53384 to the clinic
+Citizen 11 (pid=53384) is vaccinated for the 8th time: the clinic has 203 vaccine1 and 203 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 198 vaccine1 and 200 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 52
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 198 vaccine1 and 199 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53385 to the clinic
+Citizen 12 (pid=53385) is vaccinated for the 1st time: the clinic has 203 vaccine1 and 202 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53385 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 198 vaccine1 and 198 vaccine2
+Citizen 12 (pid=53385) is vaccinated for the 2nd time: the clinic has 202 vaccine1 and 202 vaccine2.
+Citizen 12 (pid=53385) is vaccinated for the 3th time: the clinic has 202 vaccine1 and 201 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 199 vaccine1 and 198 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53385 to the clinic
+Vaccinator 8 (pid=53361) is inviting citizen pid=53385 to the clinic
+Citizen 12 (pid=53385) is vaccinated for the 4th time: the clinic has 201 vaccine1 and 201 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 198 vaccine1 and 196 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53385 to the clinic
+Citizen 12 (pid=53385) is vaccinated for the 5th time: the clinic has 200 vaccine1 and 201 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 198 vaccine1 and 195 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53385 to the clinic
+Citizen 12 (pid=53385) is vaccinated for the 6th time: the clinic has 199 vaccine1 and 201 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 197 vaccine1 and 195 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53385 to the clinic
+Citizen 12 (pid=53385) is vaccinated for the 7th time: the clinic has 199 vaccine1 and 200 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 196 vaccine1 and 195 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53385 to the clinic
+Citizen 12 (pid=53385) is vaccinated for the 8th time: the clinic has 199 vaccine1 and 199 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 196 vaccine1 and 194 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 51
+Vaccinator 7 (pid=53360) is inviting citizen pid=53386 to the clinic
+Citizen 13 (pid=53386) is vaccinated for the 1st time: the clinic has 198 vaccine1 and 199 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53386 to the clinic
+Citizen 13 (pid=53386) is vaccinated for the 2nd time: the clinic has 197 vaccine1 and 199 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 194 vaccine1 and 193 vaccine2
+Citizen 13 (pid=53386) is vaccinated for the 3th time: the clinic has 197 vaccine1 and 198 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53386 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 194 vaccine1 and 192 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 194 vaccine1 and 193 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53386 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 194 vaccine1 and 192 vaccine2
+Citizen 13 (pid=53386) is vaccinated for the 4th time: the clinic has 198 vaccine1 and 197 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 194 vaccine1 and 193 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53386 to the clinic
+Citizen 13 (pid=53386) is vaccinated for the 5th time: the clinic has 197 vaccine1 and 196 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53386 to the clinic
+Citizen 13 (pid=53386) is vaccinated for the 6th time: the clinic has 197 vaccine1 and 195 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 193 vaccine1 and 191 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53386 to the clinic
+Citizen 13 (pid=53386) is vaccinated for the 7th time: the clinic has 197 vaccine1 and 194 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 192 vaccine1 and 191 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53386 to the clinic
+Citizen 13 (pid=53386) is vaccinated for the 8th time: the clinic has 196 vaccine1 and 194 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 192 vaccine1 and 190 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 50
+Vaccinator 6 (pid=53359) is inviting citizen pid=53387 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 192 vaccine1 and 189 vaccine2
+Citizen 14 (pid=53387) is vaccinated for the 1st time: the clinic has 195 vaccine1 and 194 vaccine2.
+Vaccinator 1 (pid=53354) is inviting citizen pid=53387 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 191 vaccine1 and 189 vaccine2
+Citizen 14 (pid=53387) is vaccinated for the 2nd time: the clinic has 195 vaccine1 and 193 vaccine2.
+Citizen 14 (pid=53387) is vaccinated for the 3th time: the clinic has 194 vaccine1 and 192 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53387 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 191 vaccine1 and 188 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 191 vaccine1 and 189 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53387 to the clinic
+Citizen 14 (pid=53387) is vaccinated for the 4th time: the clinic has 193 vaccine1 and 192 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53387 to the clinic
+Citizen 14 (pid=53387) is vaccinated for the 5th time: the clinic has 193 vaccine1 and 192 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 189 vaccine1 and 188 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53387 to the clinic
+Citizen 14 (pid=53387) is vaccinated for the 6th time: the clinic has 193 vaccine1 and 192 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 188 vaccine1 and 188 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53387 to the clinic
+Citizen 14 (pid=53387) is vaccinated for the 7th time: the clinic has 192 vaccine1 and 191 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 188 vaccine1 and 187 vaccine2
+Citizen 14 (pid=53387) is vaccinated for the 8th time: the clinic has 192 vaccine1 and 190 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53387 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 187 vaccine1 and 187 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 50
+Vaccinator 4 (pid=53357) is inviting citizen pid=53388 to the clinic
+Vaccinator 5 (pid=53358) is inviting citizen pid=53388 to the clinic
+Citizen 15 (pid=53388) is vaccinated for the 1st time: the clinic has 191 vaccine1 and 190 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 185 vaccine1 and 186 vaccine2
+Citizen 15 (pid=53388) is vaccinated for the 2nd time: the clinic has 191 vaccine1 and 189 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53388 to the clinic
+Citizen 15 (pid=53388) is vaccinated for the 3th time: the clinic has 191 vaccine1 and 188 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 184 vaccine1 and 186 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53388 to the clinic
+Citizen 15 (pid=53388) is vaccinated for the 4th time: the clinic has 190 vaccine1 and 188 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 184 vaccine1 and 185 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 185 vaccine1 and 185 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53388 to the clinic
+Citizen 15 (pid=53388) is vaccinated for the 5th time: the clinic has 190 vaccine1 and 188 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 185 vaccine1 and 184 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53388 to the clinic
+Citizen 15 (pid=53388) is vaccinated for the 6th time: the clinic has 189 vaccine1 and 187 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 185 vaccine1 and 183 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53388 to the clinic
+Citizen 15 (pid=53388) is vaccinated for the 7th time: the clinic has 188 vaccine1 and 187 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 184 vaccine1 and 183 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53388 to the clinic
+Citizen 15 (pid=53388) is vaccinated for the 8th time: the clinic has 187 vaccine1 and 187 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 183 vaccine1 and 183 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 48
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 182 vaccine1 and 183 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53389 to the clinic
+Citizen 16 (pid=53389) is vaccinated for the 1st time: the clinic has 187 vaccine1 and 186 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53389 to the clinic
+Citizen 16 (pid=53389) is vaccinated for the 2nd time: the clinic has 186 vaccine1 and 186 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 182 vaccine1 and 182 vaccine2
+Citizen 16 (pid=53389) is vaccinated for the 3th time: the clinic has 185 vaccine1 and 185 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53389 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 182 vaccine1 and 181 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53389 to the clinic
+Citizen 16 (pid=53389) is vaccinated for the 4th time: the clinic has 184 vaccine1 and 185 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 181 vaccine1 and 181 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53389 to the clinic
+Citizen 16 (pid=53389) is vaccinated for the 5th time: the clinic has 183 vaccine1 and 185 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 180 vaccine1 and 181 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53389 to the clinic
+Citizen 16 (pid=53389) is vaccinated for the 6th time: the clinic has 184 vaccine1 and 184 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 179 vaccine1 and 181 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53389 to the clinic
+Citizen 16 (pid=53389) is vaccinated for the 7th time: the clinic has 184 vaccine1 and 183 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 179 vaccine1 and 180 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53389 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 178 vaccine1 and 180 vaccine2
+Citizen 16 (pid=53389) is vaccinated for the 8th time: the clinic has 184 vaccine1 and 182 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 179 vaccine1 and 180 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 47
+Vaccinator 2 (pid=53355) is inviting citizen pid=53390 to the clinic
+Vaccinator 0 (pid=53353) is inviting citizen pid=53390 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 178 vaccine1 and 178 vaccine2
+Citizen 17 (pid=53390) is vaccinated for the 1st time: the clinic has 183 vaccine1 and 182 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53390 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 177 vaccine1 and 178 vaccine2
+Citizen 17 (pid=53390) is vaccinated for the 2nd time: the clinic has 182 vaccine1 and 182 vaccine2.
+Citizen 17 (pid=53390) is vaccinated for the 3th time: the clinic has 181 vaccine1 and 182 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 177 vaccine1 and 179 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53390 to the clinic
+Citizen 17 (pid=53390) is vaccinated for the 4th time: the clinic has 181 vaccine1 and 181 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53390 to the clinic
+Citizen 17 (pid=53390) is vaccinated for the 5th time: the clinic has 181 vaccine1 and 180 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 176 vaccine1 and 177 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53390 to the clinic
+Citizen 17 (pid=53390) is vaccinated for the 6th time: the clinic has 180 vaccine1 and 180 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 176 vaccine1 and 176 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53390 to the clinic
+Citizen 17 (pid=53390) is vaccinated for the 7th time: the clinic has 179 vaccine1 and 180 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 175 vaccine1 and 176 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53390 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 174 vaccine1 and 176 vaccine2
+Citizen 17 (pid=53390) is vaccinated for the 8th time: the clinic has 178 vaccine1 and 180 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 46
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 173 vaccine1 and 176 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53391 to the clinic
+Vaccinator 9 (pid=53362) is inviting citizen pid=53391 to the clinic
+Citizen 18 (pid=53391) is vaccinated for the 1st time: the clinic has 178 vaccine1 and 179 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 173 vaccine1 and 175 vaccine2
+Citizen 18 (pid=53391) is vaccinated for the 2nd time: the clinic has 178 vaccine1 and 179 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53391 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 173 vaccine1 and 174 vaccine2
+Citizen 18 (pid=53391) is vaccinated for the 3th time: the clinic has 177 vaccine1 and 178 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 173 vaccine1 and 175 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53391 to the clinic
+Citizen 18 (pid=53391) is vaccinated for the 4th time: the clinic has 177 vaccine1 and 177 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53391 to the clinic
+Citizen 18 (pid=53391) is vaccinated for the 5th time: the clinic has 176 vaccine1 and 178 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 172 vaccine1 and 173 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53391 to the clinic
+Citizen 18 (pid=53391) is vaccinated for the 6th time: the clinic has 175 vaccine1 and 177 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 171 vaccine1 and 173 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53391 to the clinic
+Citizen 18 (pid=53391) is vaccinated for the 7th time: the clinic has 175 vaccine1 and 176 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 171 vaccine1 and 172 vaccine2
+Citizen 18 (pid=53391) is vaccinated for the 8th time: the clinic has 175 vaccine1 and 175 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53391 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 170 vaccine1 and 172 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 46
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 170 vaccine1 and 171 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53392 to the clinic
+Vaccinator 1 (pid=53354) is inviting citizen pid=53392 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 170 vaccine1 and 170 vaccine2
+Citizen 19 (pid=53392) is vaccinated for the 1st time: the clinic has 174 vaccine1 and 175 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53392 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 170 vaccine1 and 169 vaccine2
+Citizen 19 (pid=53392) is vaccinated for the 2nd time: the clinic has 173 vaccine1 and 175 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 170 vaccine1 and 170 vaccine2
+Citizen 19 (pid=53392) is vaccinated for the 3th time: the clinic has 172 vaccine1 and 175 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53392 to the clinic
+Citizen 19 (pid=53392) is vaccinated for the 4th time: the clinic has 172 vaccine1 and 174 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53392 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 169 vaccine1 and 168 vaccine2
+Citizen 19 (pid=53392) is vaccinated for the 5th time: the clinic has 172 vaccine1 and 174 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53392 to the clinic
+Citizen 19 (pid=53392) is vaccinated for the 6th time: the clinic has 171 vaccine1 and 173 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 169 vaccine1 and 167 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53392 to the clinic
+Citizen 19 (pid=53392) is vaccinated for the 7th time: the clinic has 171 vaccine1 and 172 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 168 vaccine1 and 167 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53392 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 168 vaccine1 and 166 vaccine2
+Citizen 19 (pid=53392) is vaccinated for the 8th time: the clinic has 167 vaccine1 and 166 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 44
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 167 vaccine1 and 166 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53393 to the clinic
+Citizen 20 (pid=53393) is vaccinated for the 1st time: the clinic has 170 vaccine1 and 171 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53393 to the clinic
+Citizen 20 (pid=53393) is vaccinated for the 2nd time: the clinic has 169 vaccine1 and 171 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 167 vaccine1 and 165 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 167 vaccine1 and 164 vaccine2
+Citizen 20 (pid=53393) is vaccinated for the 3th time: the clinic has 169 vaccine1 and 170 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53393 to the clinic
+Vaccinator 1 (pid=53354) is inviting citizen pid=53393 to the clinic
+Citizen 20 (pid=53393) is vaccinated for the 4th time: the clinic has 169 vaccine1 and 169 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 166 vaccine1 and 164 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53393 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 166 vaccine1 and 163 vaccine2
+Citizen 20 (pid=53393) is vaccinated for the 5th time: the clinic has 169 vaccine1 and 169 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 166 vaccine1 and 164 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53393 to the clinic
+Citizen 20 (pid=53393) is vaccinated for the 6th time: the clinic has 168 vaccine1 and 168 vaccine2.
+Citizen 20 (pid=53393) is vaccinated for the 7th time: the clinic has 165 vaccine1 and 163 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53393 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 165 vaccine1 and 162 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53393 to the clinic
+Citizen 20 (pid=53393) is vaccinated for the 8th time: the clinic has 168 vaccine1 and 166 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 164 vaccine1 and 162 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 43
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 164 vaccine1 and 161 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53394 to the clinic
+Citizen 21 (pid=53394) is vaccinated for the 1st time: the clinic has 170 vaccine1 and 172 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53394 to the clinic
+Citizen 21 (pid=53394) is vaccinated for the 2nd time: the clinic has 167 vaccine1 and 165 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 164 vaccine1 and 160 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53394 to the clinic
+Citizen 21 (pid=53394) is vaccinated for the 3th time: the clinic has 166 vaccine1 and 165 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 164 vaccine1 and 159 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53394 to the clinic
+Citizen 21 (pid=53394) is vaccinated for the 4th time: the clinic has 166 vaccine1 and 164 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 164 vaccine1 and 158 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53394 to the clinic
+Citizen 21 (pid=53394) is vaccinated for the 5th time: the clinic has 166 vaccine1 and 163 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 163 vaccine1 and 158 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53394 to the clinic
+Citizen 21 (pid=53394) is vaccinated for the 6th time: the clinic has 165 vaccine1 and 163 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 162 vaccine1 and 158 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53394 to the clinic
+Citizen 21 (pid=53394) is vaccinated for the 7th time: the clinic has 168 vaccine1 and 167 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 162 vaccine1 and 157 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 161 vaccine1 and 157 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53394 to the clinic
+Citizen 21 (pid=53394) is vaccinated for the 8th time: the clinic has 164 vaccine1 and 162 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 42
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 161 vaccine1 and 156 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53395 to the clinic
+Citizen 22 (pid=53395) is vaccinated for the 1st time: the clinic has 164 vaccine1 and 161 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53395 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 160 vaccine1 and 156 vaccine2
+Citizen 22 (pid=53395) is vaccinated for the 2nd time: the clinic has 163 vaccine1 and 161 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 161 vaccine1 and 156 vaccine2
+Citizen 22 (pid=53395) is vaccinated for the 3th time: the clinic has 163 vaccine1 and 160 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53395 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53395 to the clinic
+Citizen 22 (pid=53395) is vaccinated for the 4th time: the clinic has 163 vaccine1 and 159 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 159 vaccine1 and 155 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53395 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 159 vaccine1 and 154 vaccine2
+Citizen 22 (pid=53395) is vaccinated for the 5th time: the clinic has 163 vaccine1 and 158 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 159 vaccine1 and 155 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53395 to the clinic
+Citizen 22 (pid=53395) is vaccinated for the 6th time: the clinic has 163 vaccine1 and 157 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53395 to the clinic
+Citizen 22 (pid=53395) is vaccinated for the 7th time: the clinic has 162 vaccine1 and 157 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 158 vaccine1 and 153 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 157 vaccine1 and 153 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53395 to the clinic
+Citizen 22 (pid=53395) is vaccinated for the 8th time: the clinic has 161 vaccine1 and 157 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 41
+Vaccinator 2 (pid=53355) is inviting citizen pid=53396 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 157 vaccine1 and 152 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53396 to the clinic
+Citizen 23 (pid=53396) is vaccinated for the 1st time: the clinic has 161 vaccine1 and 156 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 157 vaccine1 and 151 vaccine2
+Citizen 23 (pid=53396) is vaccinated for the 2nd time: the clinic has 160 vaccine1 and 156 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53396 to the clinic
+Citizen 23 (pid=53396) is vaccinated for the 3th time: the clinic has 160 vaccine1 and 155 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 156 vaccine1 and 151 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53396 to the clinic
+Citizen 23 (pid=53396) is vaccinated for the 4th time: the clinic has 160 vaccine1 and 155 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 155 vaccine1 and 151 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53396 to the clinic
+Citizen 23 (pid=53396) is vaccinated for the 5th time: the clinic has 159 vaccine1 and 154 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 155 vaccine1 and 150 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53396 to the clinic
+Citizen 23 (pid=53396) is vaccinated for the 6th time: the clinic has 158 vaccine1 and 154 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 154 vaccine1 and 150 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53396 to the clinic
+Citizen 23 (pid=53396) is vaccinated for the 7th time: the clinic has 158 vaccine1 and 154 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 153 vaccine1 and 150 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53396 to the clinic
+Citizen 23 (pid=53396) is vaccinated for the 8th time: the clinic has 157 vaccine1 and 153 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 153 vaccine1 and 149 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 40
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 153 vaccine1 and 148 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53397 to the clinic
+Vaccinator 1 (pid=53354) is inviting citizen pid=53397 to the clinic
+Citizen 24 (pid=53397) is vaccinated for the 1st time: the clinic has 157 vaccine1 and 152 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 153 vaccine1 and 147 vaccine2
+Citizen 24 (pid=53397) is vaccinated for the 2nd time: the clinic has 156 vaccine1 and 152 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53397 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 152 vaccine1 and 147 vaccine2
+Citizen 24 (pid=53397) is vaccinated for the 3th time: the clinic has 156 vaccine1 and 151 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53397 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 152 vaccine1 and 148 vaccine2
+Citizen 24 (pid=53397) is vaccinated for the 4th time: the clinic has 156 vaccine1 and 150 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53397 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 152 vaccine1 and 147 vaccine2
+Citizen 24 (pid=53397) is vaccinated for the 5th time: the clinic has 151 vaccine1 and 147 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 151 vaccine1 and 147 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53397 to the clinic
+Citizen 24 (pid=53397) is vaccinated for the 6th time: the clinic has 154 vaccine1 and 150 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53397 to the clinic
+Citizen 24 (pid=53397) is vaccinated for the 7th time: the clinic has 154 vaccine1 and 149 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53397 to the clinic
+Citizen 24 (pid=53397) is vaccinated for the 8th time: the clinic has 153 vaccine1 and 149 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 150 vaccine1 and 145 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 39
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 150 vaccine1 and 144 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53398 to the clinic
+Vaccinator 5 (pid=53358) is inviting citizen pid=53398 to the clinic
+Citizen 25 (pid=53398) is vaccinated for the 1st time: the clinic has 152 vaccine1 and 149 vaccine2.
+Citizen 25 (pid=53398) is vaccinated for the 2nd time: the clinic has 152 vaccine1 and 148 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53398 to the clinic
+Citizen 25 (pid=53398) is vaccinated for the 3th time: the clinic has 152 vaccine1 and 147 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 148 vaccine1 and 143 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53398 to the clinic
+Citizen 25 (pid=53398) is vaccinated for the 4th time: the clinic has 152 vaccine1 and 146 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 148 vaccine1 and 142 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 149 vaccine1 and 143 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 148 vaccine1 and 143 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53398 to the clinic
+Citizen 25 (pid=53398) is vaccinated for the 5th time: the clinic has 148 vaccine1 and 142 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53398 to the clinic
+Citizen 25 (pid=53398) is vaccinated for the 6th time: the clinic has 151 vaccine1 and 146 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 148 vaccine1 and 141 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53398 to the clinic
+Citizen 25 (pid=53398) is vaccinated for the 7th time: the clinic has 150 vaccine1 and 146 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 148 vaccine1 and 140 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53398 to the clinic
+Citizen 25 (pid=53398) is vaccinated for the 8th time: the clinic has 149 vaccine1 and 145 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 147 vaccine1 and 140 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 38
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 147 vaccine1 and 139 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53399 to the clinic
+Vaccinator 4 (pid=53357) is inviting citizen pid=53399 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 146 vaccine1 and 139 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 145 vaccine1 and 139 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53399 to the clinic
+Citizen 26 (pid=53399) is vaccinated for the 1st time: the clinic has 149 vaccine1 and 144 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53399 to the clinic
+Citizen 26 (pid=53399) is vaccinated for the 2nd time: the clinic has 149 vaccine1 and 143 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 144 vaccine1 and 139 vaccine2
+Citizen 26 (pid=53399) is vaccinated for the 3th time: the clinic has 148 vaccine1 and 142 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53399 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 143 vaccine1 and 139 vaccine2
+Citizen 26 (pid=53399) is vaccinated for the 4th time: the clinic has 147 vaccine1 and 142 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 144 vaccine1 and 139 vaccine2
+Citizen 26 (pid=53399) is vaccinated for the 5th time: the clinic has 155 vaccine1 and 150 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53399 to the clinic
+Citizen 26 (pid=53399) is vaccinated for the 6th time: the clinic has 143 vaccine1 and 138 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53399 to the clinic
+Citizen 26 (pid=53399) is vaccinated for the 7th time: the clinic has 147 vaccine1 and 140 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 142 vaccine1 and 138 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53399 to the clinic
+Citizen 26 (pid=53399) is vaccinated for the 8th time: the clinic has 147 vaccine1 and 139 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 141 vaccine1 and 138 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 37
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 141 vaccine1 and 137 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53400 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53400 to the clinic
+Citizen 27 (pid=53400) is vaccinated for the 1st time: the clinic has 140 vaccine1 and 137 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 141 vaccine1 and 136 vaccine2
+Citizen 27 (pid=53400) is vaccinated for the 2nd time: the clinic has 146 vaccine1 and 138 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53400 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 141 vaccine1 and 135 vaccine2
+Citizen 27 (pid=53400) is vaccinated for the 3th time: the clinic has 145 vaccine1 and 138 vaccine2.
+Citizen 27 (pid=53400) is vaccinated for the 4th time: the clinic has 144 vaccine1 and 138 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53400 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 141 vaccine1 and 134 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53400 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 140 vaccine1 and 134 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 140 vaccine1 and 135 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 139 vaccine1 and 135 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53400 to the clinic
+Citizen 27 (pid=53400) is vaccinated for the 5th time: the clinic has 143 vaccine1 and 138 vaccine2.
+Citizen 27 (pid=53400) is vaccinated for the 6th time: the clinic has 142 vaccine1 and 137 vaccine2.
+Citizen 27 (pid=53400) is vaccinated for the 7th time: the clinic has 147 vaccine1 and 141 vaccine2.
+Vaccinator 1 (pid=53354) is inviting citizen pid=53400 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 138 vaccine1 and 135 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 138 vaccine1 and 134 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53400 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 137 vaccine1 and 132 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53401 to the clinic
+Citizen 27 (pid=53400) is vaccinated for the 8th time: the clinic has 137 vaccine1 and 134 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 36
+Citizen 28 (pid=53401) is vaccinated for the 1st time: the clinic has 137 vaccine1 and 133 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53401 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 136 vaccine1 and 132 vaccine2
+Citizen 28 (pid=53401) is vaccinated for the 2nd time: the clinic has 140 vaccine1 and 136 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 137 vaccine1 and 132 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53401 to the clinic
+Citizen 28 (pid=53401) is vaccinated for the 3th time: the clinic has 140 vaccine1 and 135 vaccine2.
+Citizen 28 (pid=53401) is vaccinated for the 4th time: the clinic has 140 vaccine1 and 134 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53401 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 136 vaccine1 and 130 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53401 to the clinic
+Citizen 28 (pid=53401) is vaccinated for the 5th time: the clinic has 140 vaccine1 and 133 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 136 vaccine1 and 129 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53401 to the clinic
+Citizen 28 (pid=53401) is vaccinated for the 6th time: the clinic has 139 vaccine1 and 134 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 135 vaccine1 and 129 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53401 to the clinic
+Citizen 28 (pid=53401) is vaccinated for the 7th time: the clinic has 138 vaccine1 and 134 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 134 vaccine1 and 129 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53401 to the clinic
+Citizen 28 (pid=53401) is vaccinated for the 8th time: the clinic has 141 vaccine1 and 137 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 134 vaccine1 and 128 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 35
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 134 vaccine1 and 127 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53402 to the clinic
+Citizen 29 (pid=53402) is vaccinated for the 1st time: the clinic has 146 vaccine1 and 139 vaccine2.
+Citizen 29 (pid=53402) is vaccinated for the 2nd time: the clinic has 136 vaccine1 and 132 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53402 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 133 vaccine1 and 127 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 134 vaccine1 and 127 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53402 to the clinic
+Citizen 29 (pid=53402) is vaccinated for the 3th time: the clinic has 133 vaccine1 and 126 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53402 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 133 vaccine1 and 125 vaccine2
+Citizen 29 (pid=53402) is vaccinated for the 4th time: the clinic has 132 vaccine1 and 125 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53402 to the clinic
+Citizen 29 (pid=53402) is vaccinated for the 5th time: the clinic has 135 vaccine1 and 130 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 132 vaccine1 and 125 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53402 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 132 vaccine1 and 124 vaccine2
+Citizen 29 (pid=53402) is vaccinated for the 6th time: the clinic has 135 vaccine1 and 129 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 132 vaccine1 and 125 vaccine2
+Citizen 29 (pid=53402) is vaccinated for the 7th time: the clinic has 135 vaccine1 and 128 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53402 to the clinic
+Citizen 29 (pid=53402) is vaccinated for the 8th time: the clinic has 134 vaccine1 and 128 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 131 vaccine1 and 123 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53402 to the clinic
+Citizen is leaving. Remaining citizens to vaccinate: 35
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 130 vaccine1 and 123 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53403 to the clinic
+Vaccinator 9 (pid=53362) is inviting citizen pid=53403 to the clinic
+Citizen 30 (pid=53403) is vaccinated for the 1st time: the clinic has 133 vaccine1 and 128 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 129 vaccine1 and 123 vaccine2
+Citizen 30 (pid=53403) is vaccinated for the 2nd time: the clinic has 133 vaccine1 and 127 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53403 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 129 vaccine1 and 122 vaccine2
+Citizen 30 (pid=53403) is vaccinated for the 3th time: the clinic has 133 vaccine1 and 126 vaccine2.
+Vaccinator 1 (pid=53354) is inviting citizen pid=53403 to the clinic
+Citizen 30 (pid=53403) is vaccinated for the 4th time: the clinic has 136 vaccine1 and 131 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 128 vaccine1 and 122 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53403 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 127 vaccine1 and 122 vaccine2
+Citizen 30 (pid=53403) is vaccinated for the 5th time: the clinic has 136 vaccine1 and 131 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 127 vaccine1 and 123 vaccine2
+Citizen 30 (pid=53403) is vaccinated for the 6th time: the clinic has 132 vaccine1 and 124 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53403 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53403 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 125 vaccine1 and 122 vaccine2
+Citizen 30 (pid=53403) is vaccinated for the 7th time: the clinic has 131 vaccine1 and 124 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53403 to the clinic
+Citizen 30 (pid=53403) is vaccinated for the 8th time: the clinic has 131 vaccine1 and 124 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 126 vaccine1 and 122 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 33
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 125 vaccine1 and 122 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53404 to the clinic
+Citizen 31 (pid=53404) is vaccinated for the 1st time: the clinic has 130 vaccine1 and 123 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53404 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 123 vaccine1 and 121 vaccine2
+Citizen 31 (pid=53404) is vaccinated for the 2nd time: the clinic has 130 vaccine1 and 122 vaccine2.
+Citizen 31 (pid=53404) is vaccinated for the 3th time: the clinic has 129 vaccine1 and 122 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53404 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 123 vaccine1 and 120 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53404 to the clinic
+Citizen 31 (pid=53404) is vaccinated for the 4th time: the clinic has 128 vaccine1 and 122 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 122 vaccine1 and 120 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53404 to the clinic
+Citizen 31 (pid=53404) is vaccinated for the 5th time: the clinic has 128 vaccine1 and 121 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 122 vaccine1 and 119 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53404 to the clinic
+Citizen 31 (pid=53404) is vaccinated for the 6th time: the clinic has 127 vaccine1 and 121 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 121 vaccine1 and 119 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53404 to the clinic
+Citizen 31 (pid=53404) is vaccinated for the 7th time: the clinic has 126 vaccine1 and 122 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 120 vaccine1 and 119 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53404 to the clinic
+Citizen 31 (pid=53404) is vaccinated for the 8th time: the clinic has 125 vaccine1 and 121 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 119 vaccine1 and 119 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 32
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 119 vaccine1 and 118 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53405 to the clinic
+Vaccinator 4 (pid=53357) is inviting citizen pid=53405 to the clinic
+Citizen 32 (pid=53405) is vaccinated for the 1st time: the clinic has 125 vaccine1 and 121 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 119 vaccine1 and 117 vaccine2
+Citizen 32 (pid=53405) is vaccinated for the 2nd time: the clinic has 124 vaccine1 and 121 vaccine2.
+Citizen 32 (pid=53405) is vaccinated for the 3th time: the clinic has 123 vaccine1 and 120 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53405 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 119 vaccine1 and 116 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 119 vaccine1 and 117 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53405 to the clinic
+Citizen 32 (pid=53405) is vaccinated for the 4th time: the clinic has 122 vaccine1 and 120 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53405 to the clinic
+Citizen 32 (pid=53405) is vaccinated for the 5th time: the clinic has 118 vaccine1 and 116 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53405 to the clinic
+Citizen 32 (pid=53405) is vaccinated for the 6th time: the clinic has 117 vaccine1 and 115 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 118 vaccine1 and 115 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53405 to the clinic
+Citizen 32 (pid=53405) is vaccinated for the 7th time: the clinic has 121 vaccine1 and 118 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 116 vaccine1 and 114 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 116 vaccine1 and 115 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53405 to the clinic
+Citizen 32 (pid=53405) is vaccinated for the 8th time: the clinic has 120 vaccine1 and 118 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 115 vaccine1 and 115 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 31
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 115 vaccine1 and 114 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53406 to the clinic
+Citizen 33 (pid=53406) is vaccinated for the 1st time: the clinic has 119 vaccine1 and 118 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53406 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 114 vaccine1 and 114 vaccine2
+Citizen 33 (pid=53406) is vaccinated for the 2nd time: the clinic has 118 vaccine1 and 118 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 115 vaccine1 and 114 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53406 to the clinic
+Citizen 33 (pid=53406) is vaccinated for the 3th time: the clinic has 118 vaccine1 and 117 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53406 to the clinic
+Citizen 33 (pid=53406) is vaccinated for the 4th time: the clinic has 118 vaccine1 and 116 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 114 vaccine1 and 112 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53406 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 113 vaccine1 and 112 vaccine2
+Citizen 33 (pid=53406) is vaccinated for the 5th time: the clinic has 113 vaccine1 and 111 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 114 vaccine1 and 112 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53406 to the clinic
+Citizen 33 (pid=53406) is vaccinated for the 6th time: the clinic has 121 vaccine1 and 119 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53406 to the clinic
+Citizen 33 (pid=53406) is vaccinated for the 7th time: the clinic has 117 vaccine1 and 114 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 113 vaccine1 and 110 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53406 to the clinic
+Citizen 33 (pid=53406) is vaccinated for the 8th time: the clinic has 116 vaccine1 and 113 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 113 vaccine1 and 109 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 30
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 112 vaccine1 and 109 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53407 to the clinic
+Vaccinator 1 (pid=53354) is inviting citizen pid=53407 to the clinic
+Citizen 34 (pid=53407) is vaccinated for the 1st time: the clinic has 115 vaccine1 and 114 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 112 vaccine1 and 108 vaccine2
+Citizen 34 (pid=53407) is vaccinated for the 2nd time: the clinic has 114 vaccine1 and 114 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53407 to the clinic
+Citizen 34 (pid=53407) is vaccinated for the 3th time: the clinic has 114 vaccine1 and 113 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 112 vaccine1 and 107 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53407 to the clinic
+Citizen 34 (pid=53407) is vaccinated for the 4th time: the clinic has 114 vaccine1 and 113 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 111 vaccine1 and 107 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53407 to the clinic
+Citizen 34 (pid=53407) is vaccinated for the 5th time: the clinic has 113 vaccine1 and 112 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 110 vaccine1 and 107 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53407 to the clinic
+Citizen 34 (pid=53407) is vaccinated for the 6th time: the clinic has 122 vaccine1 and 119 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 109 vaccine1 and 107 vaccine2
+Citizen 34 (pid=53407) is vaccinated for the 7th time: the clinic has 113 vaccine1 and 111 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53407 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 108 vaccine1 and 107 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 109 vaccine1 and 107 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53407 to the clinic
+Citizen 34 (pid=53407) is vaccinated for the 8th time: the clinic has 112 vaccine1 and 110 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 29
+Vaccinator 5 (pid=53358) is inviting citizen pid=53408 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 107 vaccine1 and 106 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53408 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 107 vaccine1 and 105 vaccine2
+Citizen 35 (pid=53408) is vaccinated for the 1st time: the clinic has 112 vaccine1 and 109 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 108 vaccine1 and 105 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53408 to the clinic
+Citizen 35 (pid=53408) is vaccinated for the 2nd time: the clinic has 112 vaccine1 and 108 vaccine2.
+Citizen 35 (pid=53408) is vaccinated for the 3th time: the clinic has 111 vaccine1 and 108 vaccine2.
+Vaccinator 1 (pid=53354) is inviting citizen pid=53408 to the clinic
+Citizen 35 (pid=53408) is vaccinated for the 4th time: the clinic has 111 vaccine1 and 107 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 107 vaccine1 and 103 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53408 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 106 vaccine1 and 103 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53408 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 106 vaccine1 and 102 vaccine2
+Citizen 35 (pid=53408) is vaccinated for the 5th time: the clinic has 111 vaccine1 and 106 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53408 to the clinic
+Citizen 35 (pid=53408) is vaccinated for the 6th time: the clinic has 110 vaccine1 and 106 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 105 vaccine1 and 102 vaccine2
+Citizen 35 (pid=53408) is vaccinated for the 7th time: the clinic has 109 vaccine1 and 106 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53408 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 105 vaccine1 and 101 vaccine2
+Citizen 35 (pid=53408) is vaccinated for the 8th time: the clinic has 104 vaccine1 and 101 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 105 vaccine1 and 102 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 28
+Vaccinator 4 (pid=53357) is inviting citizen pid=53409 to the clinic
+Vaccinator 9 (pid=53362) is inviting citizen pid=53409 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 103 vaccine1 and 101 vaccine2
+Citizen 36 (pid=53409) is vaccinated for the 1st time: the clinic has 108 vaccine1 and 106 vaccine2.
+Citizen 36 (pid=53409) is vaccinated for the 2nd time: the clinic has 107 vaccine1 and 105 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53409 to the clinic
+Citizen 36 (pid=53409) is vaccinated for the 3th time: the clinic has 102 vaccine1 and 100 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 103 vaccine1 and 100 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53409 to the clinic
+Citizen 36 (pid=53409) is vaccinated for the 4th time: the clinic has 107 vaccine1 and 104 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 102 vaccine1 and 100 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53409 to the clinic
+Citizen 36 (pid=53409) is vaccinated for the 5th time: the clinic has 106 vaccine1 and 103 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 102 vaccine1 and 99 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53409 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 102 vaccine1 and 100 vaccine2
+Citizen 36 (pid=53409) is vaccinated for the 6th time: the clinic has 106 vaccine1 and 102 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53409 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 100 vaccine1 and 99 vaccine2
+Citizen 36 (pid=53409) is vaccinated for the 7th time: the clinic has 101 vaccine1 and 99 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 101 vaccine1 and 99 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53409 to the clinic
+Citizen 36 (pid=53409) is vaccinated for the 8th time: the clinic has 105 vaccine1 and 101 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 27
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 100 vaccine1 and 97 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53410 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53410 to the clinic
+Citizen 37 (pid=53410) is vaccinated for the 1st time: the clinic has 108 vaccine1 and 106 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 100 vaccine1 and 96 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53410 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 100 vaccine1 and 97 vaccine2
+Citizen 37 (pid=53410) is vaccinated for the 2nd time: the clinic has 104 vaccine1 and 101 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 99 vaccine1 and 97 vaccine2
+Citizen 37 (pid=53410) is vaccinated for the 3th time: the clinic has 103 vaccine1 and 100 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53410 to the clinic
+Citizen 37 (pid=53410) is vaccinated for the 4th time: the clinic has 106 vaccine1 and 105 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53410 to the clinic
+Citizen 37 (pid=53410) is vaccinated for the 5th time: the clinic has 102 vaccine1 and 99 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 97 vaccine1 and 96 vaccine2
+Citizen 37 (pid=53410) is vaccinated for the 6th time: the clinic has 101 vaccine1 and 99 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53410 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 96 vaccine1 and 96 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 96 vaccine1 and 97 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53410 to the clinic
+Citizen 37 (pid=53410) is vaccinated for the 7th time: the clinic has 100 vaccine1 and 98 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53410 to the clinic
+Citizen 37 (pid=53410) is vaccinated for the 8th time: the clinic has 100 vaccine1 and 98 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 26
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 94 vaccine1 and 97 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 94 vaccine1 and 96 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53411 to the clinic
+Vaccinator 6 (pid=53359) is inviting citizen pid=53411 to the clinic
+Citizen 38 (pid=53411) is vaccinated for the 1st time: the clinic has 105 vaccine1 and 102 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 93 vaccine1 and 95 vaccine2
+Citizen 38 (pid=53411) is vaccinated for the 2nd time: the clinic has 99 vaccine1 and 97 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53411 to the clinic
+Citizen 38 (pid=53411) is vaccinated for the 3th time: the clinic has 99 vaccine1 and 96 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 93 vaccine1 and 94 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53411 to the clinic
+Citizen 38 (pid=53411) is vaccinated for the 4th time: the clinic has 99 vaccine1 and 96 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 92 vaccine1 and 94 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53411 to the clinic
+Citizen 38 (pid=53411) is vaccinated for the 5th time: the clinic has 98 vaccine1 and 96 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 92 vaccine1 and 93 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53411 to the clinic
+Citizen 38 (pid=53411) is vaccinated for the 6th time: the clinic has 97 vaccine1 and 95 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 91 vaccine1 and 93 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53411 to the clinic
+Citizen 38 (pid=53411) is vaccinated for the 7th time: the clinic has 96 vaccine1 and 95 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 90 vaccine1 and 93 vaccine2
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 91 vaccine1 and 93 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53411 to the clinic
+Citizen 38 (pid=53411) is vaccinated for the 8th time: the clinic has 95 vaccine1 and 96 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 25
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 90 vaccine1 and 91 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53412 to the clinic
+Citizen 39 (pid=53412) is vaccinated for the 1st time: the clinic has 94 vaccine1 and 95 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53412 to the clinic
+Citizen 39 (pid=53412) is vaccinated for the 2nd time: the clinic has 93 vaccine1 and 96 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 89 vaccine1 and 91 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53412 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 88 vaccine1 and 91 vaccine2
+Citizen 39 (pid=53412) is vaccinated for the 3th time: the clinic has 92 vaccine1 and 95 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53412 to the clinic
+Citizen 39 (pid=53412) is vaccinated for the 4th time: the clinic has 92 vaccine1 and 94 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 87 vaccine1 and 91 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53412 to the clinic
+Citizen 39 (pid=53412) is vaccinated for the 5th time: the clinic has 92 vaccine1 and 93 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 87 vaccine1 and 90 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53412 to the clinic
+Citizen 39 (pid=53412) is vaccinated for the 6th time: the clinic has 91 vaccine1 and 93 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 87 vaccine1 and 89 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53412 to the clinic
+Citizen 39 (pid=53412) is vaccinated for the 7th time: the clinic has 91 vaccine1 and 92 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 86 vaccine1 and 89 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53412 to the clinic
+Citizen 39 (pid=53412) is vaccinated for the 8th time: the clinic has 90 vaccine1 and 92 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 86 vaccine1 and 88 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 24
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 85 vaccine1 and 88 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53413 to the clinic
+Vaccinator 0 (pid=53353) is inviting citizen pid=53413 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 85 vaccine1 and 87 vaccine2
+Citizen 40 (pid=53413) is vaccinated for the 1st time: the clinic has 85 vaccine1 and 87 vaccine2.
+Citizen 40 (pid=53413) is vaccinated for the 2nd time: the clinic has 89 vaccine1 and 91 vaccine2.
+Vaccinator 1 (pid=53354) is inviting citizen pid=53413 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 85 vaccine1 and 86 vaccine2
+Citizen 40 (pid=53413) is vaccinated for the 3th time: the clinic has 89 vaccine1 and 90 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 85 vaccine1 and 87 vaccine2
+Citizen 40 (pid=53413) is vaccinated for the 4th time: the clinic has 88 vaccine1 and 90 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53413 to the clinic
+Vaccinator 2 (pid=53355) is inviting citizen pid=53413 to the clinic
+Citizen 40 (pid=53413) is vaccinated for the 5th time: the clinic has 87 vaccine1 and 90 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 84 vaccine1 and 85 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53413 to the clinic
+Citizen 40 (pid=53413) is vaccinated for the 6th time: the clinic has 86 vaccine1 and 90 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 83 vaccine1 and 85 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53413 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 83 vaccine1 and 84 vaccine2
+Citizen 40 (pid=53413) is vaccinated for the 7th time: the clinic has 86 vaccine1 and 89 vaccine2.
+Citizen 40 (pid=53413) is vaccinated for the 8th time: the clinic has 86 vaccine1 and 88 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53413 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 84 vaccine1 and 84 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 24
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 83 vaccine1 and 84 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53414 to the clinic
+Vaccinator 7 (pid=53360) is inviting citizen pid=53414 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 82 vaccine1 and 82 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53414 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 81 vaccine1 and 82 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53414 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 81 vaccine1 and 81 vaccine2
+Citizen 41 (pid=53414) is vaccinated for the 1st time: the clinic has 83 vaccine1 and 83 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 81 vaccine1 and 82 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53414 to the clinic
+Citizen 41 (pid=53414) is vaccinated for the 2nd time: the clinic has 81 vaccine1 and 82 vaccine2.
+Citizen 41 (pid=53414) is vaccinated for the 3th time: the clinic has 90 vaccine1 and 92 vaccine2.
+Citizen 41 (pid=53414) is vaccinated for the 4th time: the clinic has 84 vaccine1 and 86 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53414 to the clinic
+Citizen 41 (pid=53414) is vaccinated for the 5th time: the clinic has 84 vaccine1 and 86 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 80 vaccine1 and 80 vaccine2
+Citizen 41 (pid=53414) is vaccinated for the 6th time: the clinic has 83 vaccine1 and 85 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53414 to the clinic
+Citizen 41 (pid=53414) is vaccinated for the 7th time: the clinic has 83 vaccine1 and 84 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 79 vaccine1 and 80 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53414 to the clinic
+Citizen 41 (pid=53414) is vaccinated for the 8th time: the clinic has 82 vaccine1 and 84 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 78 vaccine1 and 80 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 22
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 78 vaccine1 and 79 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53415 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53415 to the clinic
+Citizen 42 (pid=53415) is vaccinated for the 1st time: the clinic has 85 vaccine1 and 88 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 78 vaccine1 and 78 vaccine2
+Citizen 42 (pid=53415) is vaccinated for the 2nd time: the clinic has 82 vaccine1 and 83 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53415 to the clinic
+Citizen 42 (pid=53415) is vaccinated for the 3th time: the clinic has 84 vaccine1 and 87 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 78 vaccine1 and 77 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53415 to the clinic
+Citizen 42 (pid=53415) is vaccinated for the 4th time: the clinic has 81 vaccine1 and 81 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 77 vaccine1 and 77 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53415 to the clinic
+Citizen 42 (pid=53415) is vaccinated for the 5th time: the clinic has 80 vaccine1 and 81 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 76 vaccine1 and 77 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53415 to the clinic
+Citizen 42 (pid=53415) is vaccinated for the 6th time: the clinic has 80 vaccine1 and 81 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 76 vaccine1 and 76 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53415 to the clinic
+Citizen 42 (pid=53415) is vaccinated for the 7th time: the clinic has 79 vaccine1 and 80 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 76 vaccine1 and 75 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53415 to the clinic
+Citizen 42 (pid=53415) is vaccinated for the 8th time: the clinic has 79 vaccine1 and 79 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 75 vaccine1 and 75 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 21
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 75 vaccine1 and 74 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53416 to the clinic
+Vaccinator 6 (pid=53359) is inviting citizen pid=53416 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 74 vaccine1 and 74 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 75 vaccine1 and 74 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53416 to the clinic
+Vaccinator 6 (pid=53359) is inviting citizen pid=53416 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 74 vaccine1 and 72 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53416 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 74 vaccine1 and 71 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53416 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 74 vaccine1 and 70 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53416 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 73 vaccine1 and 70 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53416 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 72 vaccine1 and 70 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 72 vaccine1 and 69 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53417 to the clinic
+Citizen 44 (pid=53417) is vaccinated for the 1st time: the clinic has 75 vaccine1 and 74 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53417 to the clinic
+Citizen 44 (pid=53417) is vaccinated for the 2nd time: the clinic has 74 vaccine1 and 74 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 72 vaccine1 and 68 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53417 to the clinic
+Citizen 44 (pid=53417) is vaccinated for the 3th time: the clinic has 74 vaccine1 and 73 vaccine2.
+Citizen 43 (pid=53416) is vaccinated for the 1st time: the clinic has 78 vaccine1 and 79 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 72 vaccine1 and 67 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53417 to the clinic
+Citizen 44 (pid=53417) is vaccinated for the 4th time: the clinic has 77 vaccine1 and 77 vaccine2.
+Citizen 43 (pid=53416) is vaccinated for the 2nd time: the clinic has 77 vaccine1 and 79 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 71 vaccine1 and 67 vaccine2
+Citizen 43 (pid=53416) is vaccinated for the 3th time: the clinic has 77 vaccine1 and 78 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53417 to the clinic
+Citizen 44 (pid=53417) is vaccinated for the 5th time: the clinic has 73 vaccine1 and 72 vaccine2.
+Citizen 43 (pid=53416) is vaccinated for the 4th time: the clinic has 74 vaccine1 and 73 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 70 vaccine1 and 67 vaccine2
+Citizen 43 (pid=53416) is vaccinated for the 5th time: the clinic has 77 vaccine1 and 76 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53417 to the clinic
+Citizen 44 (pid=53417) is vaccinated for the 6th time: the clinic has 73 vaccine1 and 71 vaccine2.
+Citizen 43 (pid=53416) is vaccinated for the 6th time: the clinic has 76 vaccine1 and 76 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 69 vaccine1 and 67 vaccine2
+Citizen 43 (pid=53416) is vaccinated for the 7th time: the clinic has 75 vaccine1 and 76 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53417 to the clinic
+Citizen 44 (pid=53417) is vaccinated for the 7th time: the clinic has 73 vaccine1 and 70 vaccine2.
+Citizen 43 (pid=53416) is vaccinated for the 8th time: the clinic has 75 vaccine1 and 75 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 69 vaccine1 and 66 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 20
+Vaccinator 7 (pid=53360) is inviting citizen pid=53417 to the clinic
+Citizen 44 (pid=53417) is vaccinated for the 8th time: the clinic has 73 vaccine1 and 69 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 68 vaccine1 and 66 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 19
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 68 vaccine1 and 65 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53418 to the clinic
+Citizen 45 (pid=53418) is vaccinated for the 1st time: the clinic has 72 vaccine1 and 69 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53418 to the clinic
+Citizen 45 (pid=53418) is vaccinated for the 2nd time: the clinic has 71 vaccine1 and 69 vaccine2.
+Vaccinator 1 (pid=53354) is inviting citizen pid=53418 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 66 vaccine1 and 64 vaccine2
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 66 vaccine1 and 65 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53418 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 66 vaccine1 and 64 vaccine2
+Citizen 45 (pid=53418) is vaccinated for the 3th time: the clinic has 71 vaccine1 and 68 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53418 to the clinic
+Citizen 45 (pid=53418) is vaccinated for the 4th time: the clinic has 71 vaccine1 and 67 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 65 vaccine1 and 64 vaccine2
+Citizen 45 (pid=53418) is vaccinated for the 5th time: the clinic has 71 vaccine1 and 66 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53418 to the clinic
+Citizen 45 (pid=53418) is vaccinated for the 6th time: the clinic has 70 vaccine1 and 66 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 65 vaccine1 and 63 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53418 to the clinic
+Citizen 45 (pid=53418) is vaccinated for the 7th time: the clinic has 69 vaccine1 and 66 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 64 vaccine1 and 63 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 63 vaccine1 and 63 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53418 to the clinic
+Citizen 45 (pid=53418) is vaccinated for the 8th time: the clinic has 68 vaccine1 and 66 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 18
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 63 vaccine1 and 62 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53419 to the clinic
+Vaccinator 7 (pid=53360) is inviting citizen pid=53419 to the clinic
+Citizen 46 (pid=53419) is vaccinated for the 1st time: the clinic has 68 vaccine1 and 65 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 63 vaccine1 and 61 vaccine2
+Citizen 46 (pid=53419) is vaccinated for the 2nd time: the clinic has 67 vaccine1 and 65 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53419 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 63 vaccine1 and 60 vaccine2
+Citizen 46 (pid=53419) is vaccinated for the 3th time: the clinic has 67 vaccine1 and 64 vaccine2.
+Citizen 46 (pid=53419) is vaccinated for the 4th time: the clinic has 66 vaccine1 and 63 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53419 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 62 vaccine1 and 60 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 63 vaccine1 and 60 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53419 to the clinic
+Citizen 46 (pid=53419) is vaccinated for the 5th time: the clinic has 65 vaccine1 and 64 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53419 to the clinic
+Citizen 46 (pid=53419) is vaccinated for the 6th time: the clinic has 62 vaccine1 and 59 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53419 to the clinic
+Citizen 46 (pid=53419) is vaccinated for the 7th time: the clinic has 64 vaccine1 and 63 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 61 vaccine1 and 57 vaccine2
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 61 vaccine1 and 58 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53419 to the clinic
+Citizen 46 (pid=53419) is vaccinated for the 8th time: the clinic has 64 vaccine1 and 62 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 60 vaccine1 and 58 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 17
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 60 vaccine1 and 57 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53420 to the clinic
+Citizen 47 (pid=53420) is vaccinated for the 1st time: the clinic has 63 vaccine1 and 62 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53420 to the clinic
+Citizen 47 (pid=53420) is vaccinated for the 2nd time: the clinic has 62 vaccine1 and 62 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 59 vaccine1 and 57 vaccine2
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 58 vaccine1 and 57 vaccine2
+Citizen 47 (pid=53420) is vaccinated for the 3th time: the clinic has 62 vaccine1 and 61 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53420 to the clinic
+Vaccinator 7 (pid=53360) is inviting citizen pid=53420 to the clinic
+Citizen 47 (pid=53420) is vaccinated for the 4th time: the clinic has 62 vaccine1 and 60 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 58 vaccine1 and 56 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53420 to the clinic
+Citizen 47 (pid=53420) is vaccinated for the 5th time: the clinic has 62 vaccine1 and 59 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 58 vaccine1 and 55 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53420 to the clinic
+Citizen 47 (pid=53420) is vaccinated for the 6th time: the clinic has 65 vaccine1 and 63 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 57 vaccine1 and 55 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53420 to the clinic
+Citizen 47 (pid=53420) is vaccinated for the 7th time: the clinic has 61 vaccine1 and 58 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 56 vaccine1 and 55 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53420 to the clinic
+Citizen 47 (pid=53420) is vaccinated for the 8th time: the clinic has 60 vaccine1 and 57 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 56 vaccine1 and 54 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 16
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 55 vaccine1 and 54 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53421 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53421 to the clinic
+Citizen 48 (pid=53421) is vaccinated for the 1st time: the clinic has 60 vaccine1 and 57 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 55 vaccine1 and 53 vaccine2
+Citizen 48 (pid=53421) is vaccinated for the 2nd time: the clinic has 59 vaccine1 and 57 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53421 to the clinic
+Citizen 48 (pid=53421) is vaccinated for the 3th time: the clinic has 59 vaccine1 and 56 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 55 vaccine1 and 52 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53421 to the clinic
+Citizen 48 (pid=53421) is vaccinated for the 4th time: the clinic has 58 vaccine1 and 56 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 55 vaccine1 and 51 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53421 to the clinic
+Citizen 48 (pid=53421) is vaccinated for the 5th time: the clinic has 57 vaccine1 and 56 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 54 vaccine1 and 51 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53421 to the clinic
+Citizen 48 (pid=53421) is vaccinated for the 6th time: the clinic has 57 vaccine1 and 55 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 53 vaccine1 and 51 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53421 to the clinic
+Citizen 48 (pid=53421) is vaccinated for the 7th time: the clinic has 57 vaccine1 and 54 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 53 vaccine1 and 50 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53421 to the clinic
+Citizen 48 (pid=53421) is vaccinated for the 8th time: the clinic has 56 vaccine1 and 54 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 52 vaccine1 and 50 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 15
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 52 vaccine1 and 49 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53422 to the clinic
+Citizen 49 (pid=53422) is vaccinated for the 1st time: the clinic has 55 vaccine1 and 54 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53422 to the clinic
+Citizen 49 (pid=53422) is vaccinated for the 2nd time: the clinic has 55 vaccine1 and 53 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 52 vaccine1 and 48 vaccine2
+Citizen 49 (pid=53422) is vaccinated for the 3th time: the clinic has 54 vaccine1 and 53 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53422 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 51 vaccine1 and 48 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 51 vaccine1 and 49 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53422 to the clinic
+Citizen 49 (pid=53422) is vaccinated for the 4th time: the clinic has 54 vaccine1 and 52 vaccine2.
+Citizen 49 (pid=53422) is vaccinated for the 5th time: the clinic has 50 vaccine1 and 48 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53422 to the clinic
+Vaccinator 6 (pid=53359) is inviting citizen pid=53422 to the clinic
+Citizen 49 (pid=53422) is vaccinated for the 6th time: the clinic has 54 vaccine1 and 50 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 49 vaccine1 and 46 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 49 vaccine1 and 47 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53422 to the clinic
+Citizen 49 (pid=53422) is vaccinated for the 7th time: the clinic has 53 vaccine1 and 50 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 48 vaccine1 and 47 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53422 to the clinic
+Citizen 49 (pid=53422) is vaccinated for the 8th time: the clinic has 52 vaccine1 and 50 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 14
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 47 vaccine1 and 47 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 48 vaccine1 and 47 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53423 to the clinic
+Vaccinator 8 (pid=53361) is inviting citizen pid=53423 to the clinic
+Citizen 50 (pid=53423) is vaccinated for the 1st time: the clinic has 52 vaccine1 and 49 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53423 to the clinic
+Citizen 50 (pid=53423) is vaccinated for the 2nd time: the clinic has 51 vaccine1 and 49 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 46 vaccine1 and 46 vaccine2
+Citizen 50 (pid=53423) is vaccinated for the 3th time: the clinic has 46 vaccine1 and 45 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 47 vaccine1 and 46 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53423 to the clinic
+Citizen 50 (pid=53423) is vaccinated for the 4th time: the clinic has 51 vaccine1 and 47 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 47 vaccine1 and 45 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53423 to the clinic
+Citizen 50 (pid=53423) is vaccinated for the 5th time: the clinic has 54 vaccine1 and 51 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 47 vaccine1 and 44 vaccine2
+Citizen 50 (pid=53423) is vaccinated for the 6th time: the clinic has 49 vaccine1 and 47 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53423 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 45 vaccine1 and 43 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 45 vaccine1 and 44 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53423 to the clinic
+Citizen 50 (pid=53423) is vaccinated for the 7th time: the clinic has 48 vaccine1 and 46 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53423 to the clinic
+Citizen 50 (pid=53423) is vaccinated for the 8th time: the clinic has 44 vaccine1 and 43 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 43 vaccine1 and 43 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 13
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 43 vaccine1 and 42 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53424 to the clinic
+Vaccinator 7 (pid=53360) is inviting citizen pid=53424 to the clinic
+Citizen 51 (pid=53424) is vaccinated for the 1st time: the clinic has 47 vaccine1 and 46 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 42 vaccine1 and 42 vaccine2
+Citizen 51 (pid=53424) is vaccinated for the 2nd time: the clinic has 47 vaccine1 and 46 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53424 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 42 vaccine1 and 41 vaccine2
+Citizen 51 (pid=53424) is vaccinated for the 3th time: the clinic has 46 vaccine1 and 45 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 42 vaccine1 and 42 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53424 to the clinic
+Citizen 51 (pid=53424) is vaccinated for the 4th time: the clinic has 51 vaccine1 and 48 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53424 to the clinic
+Citizen 51 (pid=53424) is vaccinated for the 5th time: the clinic has 46 vaccine1 and 44 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 40 vaccine1 and 41 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53424 to the clinic
+Citizen 51 (pid=53424) is vaccinated for the 6th time: the clinic has 46 vaccine1 and 43 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 40 vaccine1 and 40 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53424 to the clinic
+Citizen 51 (pid=53424) is vaccinated for the 7th time: the clinic has 45 vaccine1 and 42 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 39 vaccine1 and 40 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53424 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 39 vaccine1 and 39 vaccine2
+Citizen 51 (pid=53424) is vaccinated for the 8th time: the clinic has 48 vaccine1 and 46 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 12
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 39 vaccine1 and 38 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53425 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53425 to the clinic
+Citizen 52 (pid=53425) is vaccinated for the 1st time: the clinic has 43 vaccine1 and 42 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 39 vaccine1 and 37 vaccine2
+Citizen 52 (pid=53425) is vaccinated for the 2nd time: the clinic has 42 vaccine1 and 42 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53425 to the clinic
+Citizen 52 (pid=53425) is vaccinated for the 3th time: the clinic has 42 vaccine1 and 41 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 39 vaccine1 and 36 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53425 to the clinic
+Citizen 52 (pid=53425) is vaccinated for the 4th time: the clinic has 41 vaccine1 and 41 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 38 vaccine1 and 36 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53425 to the clinic
+Citizen 52 (pid=53425) is vaccinated for the 5th time: the clinic has 41 vaccine1 and 41 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 37 vaccine1 and 36 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53425 to the clinic
+Citizen 52 (pid=53425) is vaccinated for the 6th time: the clinic has 40 vaccine1 and 40 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 36 vaccine1 and 36 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53425 to the clinic
+Citizen 52 (pid=53425) is vaccinated for the 7th time: the clinic has 39 vaccine1 and 40 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 36 vaccine1 and 35 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53425 to the clinic
+Citizen 52 (pid=53425) is vaccinated for the 8th time: the clinic has 39 vaccine1 and 39 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 35 vaccine1 and 35 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 11
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 35 vaccine1 and 34 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53426 to the clinic
+Vaccinator 6 (pid=53359) is inviting citizen pid=53426 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 34 vaccine1 and 34 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 35 vaccine1 and 34 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53426 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53426 to the clinic
+Citizen 53 (pid=53426) is vaccinated for the 1st time: the clinic has 38 vaccine1 and 39 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 34 vaccine1 and 32 vaccine2
+Citizen 53 (pid=53426) is vaccinated for the 2nd time: the clinic has 38 vaccine1 and 38 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53426 to the clinic
+Citizen 53 (pid=53426) is vaccinated for the 3th time: the clinic has 38 vaccine1 and 37 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 33 vaccine1 and 32 vaccine2
+Citizen 53 (pid=53426) is vaccinated for the 4th time: the clinic has 38 vaccine1 and 36 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53426 to the clinic
+Citizen 53 (pid=53426) is vaccinated for the 5th time: the clinic has 38 vaccine1 and 35 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 33 vaccine1 and 31 vaccine2
+Citizen 53 (pid=53426) is vaccinated for the 6th time: the clinic has 37 vaccine1 and 35 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 32 vaccine1 and 31 vaccine2
+Citizen 53 (pid=53426) is vaccinated for the 7th time: the clinic has 36 vaccine1 and 35 vaccine2.
+Vaccinator 9 (pid=53362) is inviting citizen pid=53426 to the clinic
+Vaccinator 1 (pid=53354) is inviting citizen pid=53426 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 31 vaccine1 and 31 vaccine2
+Citizen 53 (pid=53426) is vaccinated for the 8th time: the clinic has 35 vaccine1 and 35 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 10
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 30 vaccine1 and 31 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53427 to the clinic
+Vaccinator 8 (pid=53361) is inviting citizen pid=53427 to the clinic
+Citizen 54 (pid=53427) is vaccinated for the 1st time: the clinic has 35 vaccine1 and 34 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 30 vaccine1 and 30 vaccine2
+Citizen 54 (pid=53427) is vaccinated for the 2nd time: the clinic has 34 vaccine1 and 34 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53427 to the clinic
+Citizen 54 (pid=53427) is vaccinated for the 3th time: the clinic has 34 vaccine1 and 33 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 30 vaccine1 and 29 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53427 to the clinic
+Citizen 54 (pid=53427) is vaccinated for the 4th time: the clinic has 34 vaccine1 and 33 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 29 vaccine1 and 29 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53427 to the clinic
+Citizen 54 (pid=53427) is vaccinated for the 5th time: the clinic has 33 vaccine1 and 32 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 28 vaccine1 and 29 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53427 to the clinic
+Citizen 54 (pid=53427) is vaccinated for the 6th time: the clinic has 33 vaccine1 and 31 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 27 vaccine1 and 29 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53427 to the clinic
+Citizen 54 (pid=53427) is vaccinated for the 7th time: the clinic has 32 vaccine1 and 31 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 27 vaccine1 and 28 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53427 to the clinic
+Citizen 54 (pid=53427) is vaccinated for the 8th time: the clinic has 32 vaccine1 and 30 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 27 vaccine1 and 27 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 9
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 27 vaccine1 and 26 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53428 to the clinic
+Vaccinator 1 (pid=53354) is inviting citizen pid=53428 to the clinic
+Citizen 55 (pid=53428) is vaccinated for the 1st time: the clinic has 31 vaccine1 and 30 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 27 vaccine1 and 25 vaccine2
+Citizen 55 (pid=53428) is vaccinated for the 2nd time: the clinic has 30 vaccine1 and 30 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53428 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 26 vaccine1 and 25 vaccine2
+Citizen 55 (pid=53428) is vaccinated for the 3th time: the clinic has 29 vaccine1 and 30 vaccine2.
+Citizen 55 (pid=53428) is vaccinated for the 4th time: the clinic has 29 vaccine1 and 29 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53428 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 25 vaccine1 and 25 vaccine2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 25 vaccine1 and 26 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53428 to the clinic
+Citizen 55 (pid=53428) is vaccinated for the 5th time: the clinic has 29 vaccine1 and 28 vaccine2.
+Citizen 55 (pid=53428) is vaccinated for the 6th time: the clinic has 28 vaccine1 and 28 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53428 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 24 vaccine1 and 24 vaccine2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 24 vaccine1 and 25 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53428 to the clinic
+Citizen 55 (pid=53428) is vaccinated for the 7th time: the clinic has 27 vaccine1 and 28 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53428 to the clinic
+Citizen 55 (pid=53428) is vaccinated for the 8th time: the clinic has 26 vaccine1 and 28 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 22 vaccine1 and 24 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 8
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 22 vaccine1 and 23 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53429 to the clinic
+Vaccinator 7 (pid=53360) is inviting citizen pid=53429 to the clinic
+Citizen 56 (pid=53429) is vaccinated for the 1st time: the clinic has 26 vaccine1 and 27 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 22 vaccine1 and 22 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53429 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 22 vaccine1 and 21 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53429 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 21 vaccine1 and 21 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53429 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 21 vaccine1 and 20 vaccine2
+Citizen 56 (pid=53429) is vaccinated for the 2nd time: the clinic has 26 vaccine1 and 26 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53429 to the clinic
+Citizen 56 (pid=53429) is vaccinated for the 3th time: the clinic has 26 vaccine1 and 25 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 20 vaccine1 and 20 vaccine2
+Citizen 56 (pid=53429) is vaccinated for the 4th time: the clinic has 26 vaccine1 and 24 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53429 to the clinic
+Citizen 56 (pid=53429) is vaccinated for the 5th time: the clinic has 25 vaccine1 and 24 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 20 vaccine1 and 19 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 19 vaccine1 and 19 vaccine2
+Citizen 56 (pid=53429) is vaccinated for the 6th time: the clinic has 24 vaccine1 and 25 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53429 to the clinic
+Citizen 56 (pid=53429) is vaccinated for the 7th time: the clinic has 23 vaccine1 and 24 vaccine2.
+Citizen 56 (pid=53429) is vaccinated for the 8th time: the clinic has 23 vaccine1 and 24 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 7
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 19 vaccine1 and 18 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53430 to the clinic
+Vaccinator 3 (pid=53356) is inviting citizen pid=53430 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 18 vaccine1 and 18 vaccine2
+Citizen 57 (pid=53430) is vaccinated for the 1st time: the clinic has 22 vaccine1 and 23 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53430 to the clinic
+Citizen 57 (pid=53430) is vaccinated for the 2nd time: the clinic has 21 vaccine1 and 23 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 18 vaccine1 and 17 vaccine2
+Citizen 57 (pid=53430) is vaccinated for the 3th time: the clinic has 21 vaccine1 and 22 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53430 to the clinic
+Citizen 57 (pid=53430) is vaccinated for the 4th time: the clinic has 21 vaccine1 and 21 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 18 vaccine1 and 16 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53430 to the clinic
+Citizen 57 (pid=53430) is vaccinated for the 5th time: the clinic has 21 vaccine1 and 20 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 18 vaccine1 and 15 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53430 to the clinic
+Citizen 57 (pid=53430) is vaccinated for the 6th time: the clinic has 20 vaccine1 and 20 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 18 vaccine1 and 14 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53430 to the clinic
+Citizen 57 (pid=53430) is vaccinated for the 7th time: the clinic has 20 vaccine1 and 19 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 17 vaccine1 and 14 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53430 to the clinic
+Citizen 57 (pid=53430) is vaccinated for the 8th time: the clinic has 19 vaccine1 and 19 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 16 vaccine1 and 14 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 6
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 16 vaccine1 and 13 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53431 to the clinic
+Citizen 58 (pid=53431) is vaccinated for the 1st time: the clinic has 19 vaccine1 and 18 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53431 to the clinic
+Citizen 58 (pid=53431) is vaccinated for the 2nd time: the clinic has 18 vaccine1 and 18 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 16 vaccine1 and 12 vaccine2
+Citizen 58 (pid=53431) is vaccinated for the 3th time: the clinic has 18 vaccine1 and 17 vaccine2.
+Vaccinator 2 (pid=53355) is inviting citizen pid=53431 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 16 vaccine1 and 11 vaccine2
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 16 vaccine1 and 12 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53431 to the clinic
+Citizen 58 (pid=53431) is vaccinated for the 4th time: the clinic has 17 vaccine1 and 17 vaccine2.
+Vaccinator 5 (pid=53358) is inviting citizen pid=53431 to the clinic
+Citizen 58 (pid=53431) is vaccinated for the 5th time: the clinic has 17 vaccine1 and 16 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 14 vaccine1 and 11 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53431 to the clinic
+Citizen 58 (pid=53431) is vaccinated for the 6th time: the clinic has 17 vaccine1 and 15 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 13 vaccine1 and 11 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53431 to the clinic
+Citizen 58 (pid=53431) is vaccinated for the 7th time: the clinic has 17 vaccine1 and 14 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 13 vaccine1 and 10 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53431 to the clinic
+Citizen 58 (pid=53431) is vaccinated for the 8th time: the clinic has 17 vaccine1 and 13 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 12 vaccine1 and 10 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 5
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 12 vaccine1 and 9 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53432 to the clinic
+Vaccinator 8 (pid=53361) is inviting citizen pid=53432 to the clinic
+Citizen 59 (pid=53432) is vaccinated for the 1st time: the clinic has 16 vaccine1 and 13 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 11 vaccine1 and 9 vaccine2
+Citizen 59 (pid=53432) is vaccinated for the 2nd time: the clinic has 15 vaccine1 and 13 vaccine2.
+Citizen 59 (pid=53432) is vaccinated for the 3th time: the clinic has 15 vaccine1 and 12 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53432 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 10 vaccine1 and 9 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53432 to the clinic
+Citizen 59 (pid=53432) is vaccinated for the 4th time: the clinic has 15 vaccine1 and 11 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 9 vaccine1 and 9 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53432 to the clinic
+Citizen 59 (pid=53432) is vaccinated for the 5th time: the clinic has 15 vaccine1 and 11 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 2: the clinic has 8 vaccine1 and 9 vaccine2
+Vaccinator 3 (pid=53356) is inviting citizen pid=53432 to the clinic
+Citizen 59 (pid=53432) is vaccinated for the 6th time: the clinic has 14 vaccine1 and 10 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 8 vaccine1 and 8 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53432 to the clinic
+Citizen 59 (pid=53432) is vaccinated for the 7th time: the clinic has 13 vaccine1 and 10 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 7 vaccine1 and 8 vaccine2
+Vaccinator 7 (pid=53360) is inviting citizen pid=53432 to the clinic
+Citizen 59 (pid=53432) is vaccinated for the 8th time: the clinic has 12 vaccine1 and 10 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 6 vaccine1 and 8 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 4
+Vaccinator 9 (pid=53362) is inviting citizen pid=53433 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 6 vaccine1 and 7 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53433 to the clinic
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 5 vaccine1 and 7 vaccine2
+Citizen 60 (pid=53433) is vaccinated for the 1st time: the clinic has 12 vaccine1 and 9 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 6 vaccine1 and 7 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53433 to the clinic
+Citizen 60 (pid=53433) is vaccinated for the 2nd time: the clinic has 11 vaccine1 and 9 vaccine2.
+Citizen 60 (pid=53433) is vaccinated for the 3th time: the clinic has 11 vaccine1 and 8 vaccine2.
+Citizen 60 (pid=53433) is vaccinated for the 4th time: the clinic has 10 vaccine1 and 8 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53433 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 5 vaccine1 and 5 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53433 to the clinic
+Nurse 6 (pid=53369) has brought vaccine 1: the clinic has 5 vaccine1 and 4 vaccine2
+Citizen 60 (pid=53433) is vaccinated for the 5th time: the clinic has 9 vaccine1 and 8 vaccine2.
+Citizen 60 (pid=53433) is vaccinated for the 6th time: the clinic has 8 vaccine1 and 8 vaccine2.
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 5 vaccine1 and 5 vaccine2
+Vaccinator 6 (pid=53359) is inviting citizen pid=53433 to the clinic
+Vaccinator 2 (pid=53355) is inviting citizen pid=53433 to the clinic
+Citizen 60 (pid=53433) is vaccinated for the 7th time: the clinic has 7 vaccine1 and 8 vaccine2.
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 4 vaccine1 and 3 vaccine2
+Citizen 60 (pid=53433) is vaccinated for the 8th time: the clinic has 7 vaccine1 and 7 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53433 to the clinic
+Nurse 2 (pid=53365) has brought vaccine 2: the clinic has 3 vaccine1 and 3 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 4
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 3 vaccine1 and 2 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53434 to the clinic
+Citizen 61 (pid=53434) is vaccinated for the 1st time: the clinic has 6 vaccine1 and 7 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53434 to the clinic
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 2 vaccine1 and 2 vaccine2
+Citizen 61 (pid=53434) is vaccinated for the 2nd time: the clinic has 5 vaccine1 and 7 vaccine2.
+Citizen 61 (pid=53434) is vaccinated for the 3th time: the clinic has 5 vaccine1 and 6 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 3 vaccine1 and 2 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53434 to the clinic
+Vaccinator 1 (pid=53354) is inviting citizen pid=53434 to the clinic
+Citizen 61 (pid=53434) is vaccinated for the 4th time: the clinic has 5 vaccine1 and 6 vaccine2.
+Nurse 1 (pid=53364) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53434 to the clinic
+Citizen 61 (pid=53434) is vaccinated for the 5th time: the clinic has 4 vaccine1 and 5 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Vaccinator 8 (pid=53361) is inviting citizen pid=53434 to the clinic
+Citizen 61 (pid=53434) is vaccinated for the 6th time: the clinic has 4 vaccine1 and 4 vaccine2.
+Nurse 3 (pid=53366) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2
+Citizen 61 (pid=53434) is vaccinated for the 7th time: the clinic has 4 vaccine1 and 4 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53434 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Vaccinator 0 (pid=53353) is inviting citizen pid=53434 to the clinic
+Nurse 8 (pid=53371) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2
+Citizen 61 (pid=53434) is vaccinated for the 8th time: the clinic has 1 vaccine1 and 0 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 2
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53435 to the clinic
+Citizen 62 (pid=53435) is vaccinated for the 1st time: the clinic has 3 vaccine1 and 2 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53435 to the clinic
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2
+Citizen 62 (pid=53435) is vaccinated for the 2nd time: the clinic has 2 vaccine1 and 2 vaccine2.
+Nurse 4 (pid=53367) has brought vaccine 1: the clinic has 3 vaccine1 and 0 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53435 to the clinic
+Citizen 62 (pid=53435) is vaccinated for the 3th time: the clinic has 2 vaccine1 and 1 vaccine2.
+Vaccinator 7 (pid=53360) is inviting citizen pid=53435 to the clinic
+Citizen 62 (pid=53435) is vaccinated for the 4th time: the clinic has 2 vaccine1 and 1 vaccine2.
+Nurse 5 (pid=53368) has brought vaccine 2: the clinic has 3 vaccine1 and 1 vaccine2
+Citizen 62 (pid=53435) is vaccinated for the 5th time: the clinic has 2 vaccine1 and 0 vaccine2.
+Vaccinator 4 (pid=53357) is inviting citizen pid=53435 to the clinic
+Nurse 7 (pid=53370) has brought vaccine 1: the clinic has 3 vaccine1 and 0 vaccine2
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 3 vaccine1 and 1 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53435 to the clinic
+Citizen 62 (pid=53435) is vaccinated for the 6th time: the clinic has 1 vaccine1 and 0 vaccine2.
+Vaccinator 6 (pid=53359) is inviting citizen pid=53435 to the clinic
+Citizen 62 (pid=53435) is vaccinated for the 7th time: the clinic has 3 vaccine1 and 3 vaccine2.
+Nurse 0 (pid=53363) has brought vaccine 1: the clinic has 3 vaccine1 and 0 vaccine2
+Citizen 62 (pid=53435) is vaccinated for the 8th time: the clinic has 1 vaccine1 and 0 vaccine2.
+Vaccinator 8 (pid=53361) is inviting citizen pid=53435 to the clinic
+Nurse 3 (pid=53366) has brought vaccine 2: the clinic has 3 vaccine1 and 1 vaccine2
+Citizen is leaving. Remaining citizens to vaccinate: 2
+Nurse 6 (pid=53369) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Vaccinator 9 (pid=53362) is inviting citizen pid=53436 to the clinic
+Vaccinator 0 (pid=53353) is inviting citizen pid=53436 to the clinic
+Nurse 9 (pid=53372) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2
+Vaccinator 2 (pid=53355) is inviting citizen pid=53436 to the clinic
+Citizen 63 (pid=53436) is vaccinated for the 1st time: the clinic has 1 vaccine1 and 0 vaccine2.
+Citizen 63 (pid=53436) is vaccinated for the 2nd time: the clinic has 2 vaccine1 and 0 vaccine2.
+Vaccinator 3 (pid=53356) is inviting citizen pid=53436 to the clinic
+Citizen 63 (pid=53436) is vaccinated for the 3th time: the clinic has 2 vaccine1 and 0 vaccine2.
+Citizen 63 (pid=53436) is vaccinated for the 4th time: the clinic has 1 vaccine1 and 0 vaccine2.
+Nurse 8 (pid=53371) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Vaccinator 5 (pid=53358) is inviting citizen pid=53436 to the clinic
+Citizen 63 (pid=53436) is vaccinated for the 5th time: the clinic has 1 vaccine1 and 0 vaccine2.
+Nurse 2 (pid=53365) has brought vaccine 1: the clinic has 2 vaccine1 and 0 vaccine2
+Nurse 5 (pid=53368) has brought vaccine 1: the clinic has 3 vaccine1 and 0 vaccine2
+Nurse 4 (pid=53367) has brought vaccine 2: the clinic has 3 vaccine1 and 1 vaccine2
+Citizen 63 (pid=53436) is vaccinated for the 6th time: the clinic has 2 vaccine1 and 0 vaccine2.
+Vaccinator 0 (pid=53353) is inviting citizen pid=53436 to the clinic
+Nurse 1 (pid=53364) has brought vaccine 2: the clinic has 2 vaccine1 and 1 vaccine2
+Vaccinator 4 (pid=53357) is inviting citizen pid=53436 to the clinic
+Citizen 63 (pid=53436) is vaccinated for the 7th time: the clinic has 1 vaccine1 and 0 vaccine2.
+Nurse 7 (pid=53370) has brought vaccine 2: the clinic has 1 vaccine1 and 1 vaccine2
+Vaccinator 1 (pid=53354) is inviting citizen pid=53436 to the clinic
+Citizen 63 (pid=53436) is vaccinated for the 8th time: the clinic has 0 vaccine1 and 0 vaccine2.
+Citizen is leaving. Remaining citizens to vaccinate: 0
+All citizens have been vaccinated.
+Nurses have carried all vaccines to the buffer, terminating.
+Vaccinator 0 (pid=53353) vaccinated 46 doses. Vaccinator 1 (pid=53354) vaccinated 47 doses. Vaccinator 2 (pid=53355) vaccinated 52 doses. Vaccinator 3 (pid=53356) vaccinated 47 doses. Vaccinator 4 (pid=53357) vaccinated 45 doses. Vaccinator 5 (pid=53358) vaccinated 47 doses. Vaccinator 6 (pid=53359) vaccinated 49 doses. Vaccinator 7 (pid=53360) vaccinated 43 doses. Vaccinator 8 (pid=53361) vaccinated 87 doses. Vaccinator 9 (pid=53362) vaccinated 49 doses. The clinic is now closed. Stay Healthy.

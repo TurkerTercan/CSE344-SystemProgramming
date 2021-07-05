@@ -1,0 +1,273 @@
+
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage[normalem]{ulem}
+\usepackage{soul}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{extarrows}
+\usepackage{graphicx}
+\usepackage[backend=biber,
+style=numeric,
+sorting=none,
+isbn=false,
+doi=false,
+url=false,
+]{biblatex}\addbibresource{bibliography-biblatex.bib}
+
+\usepackage{subfig}
+\usepackage{wrapfig}
+\usepackage{wasysym}
+\usepackage{enumitem}
+\usepackage{adjustbox}
+\usepackage{ragged2e}
+\usepackage[svgnames,table]{xcolor}
+\usepackage{tikz}
+\usepackage{longtable}
+\usepackage{changepage}
+\usepackage{setspace}
+\usepackage{hhline}
+\usepackage{multicol}
+\usepackage{tabto}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{fancyhdr}
+\usepackage[toc,page]{appendix}
+\usepackage[hidelinks]{hyperref}
+\usetikzlibrary{shapes.symbols,shapes.geometric,shadows,arrows.meta}
+\tikzset{>={Latex[width=1.5mm,length=2mm]}}
+\usepackage{flowchart}\usepackage[paperheight=11.69in,paperwidth=8.27in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\TabPositions{0.49in,0.98in,1.47in,1.96in,2.45in,2.94in,3.43in,3.92in,4.41in,4.9in,5.39in,5.88in,}
+
+\urlstyle{same}
+
+\renewcommand{\_}{\kern-1.5pt\textunderscore\kern-1.5pt}
+
+ %%%%%%%%%%%%  Set Depths for Sections  %%%%%%%%%%%%%%
+
+% 1) Section
+% 1.1) SubSection
+% 1.1.1) SubSubSection
+% 1.1.1.1) Paragraph
+% 1.1.1.1.1) Subparagraph
+
+
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{5}
+
+
+
+\setlistdepth{9}
+\renewlist{enumerate}{enumerate}{9}
+		\setlist[enumerate,1]{label=\arabic*)}
+		\setlist[enumerate,2]{label=\alph*)}
+		\setlist[enumerate,3]{label=(\roman*)}
+		\setlist[enumerate,4]{label=(\arabic*)}
+		\setlist[enumerate,5]{label=(\Alph*)}
+		\setlist[enumerate,6]{label=(\Roman*)}
+		\setlist[enumerate,7]{label=\arabic*}
+		\setlist[enumerate,8]{label=\alph*}
+		\setlist[enumerate,9]{label=\roman*}
+
+\renewlist{itemize}{itemize}{9}
+		\setlist[itemize]{label=$\cdot$}
+		\setlist[itemize,1]{label=\textbullet}
+		\setlist[itemize,2]{label=$\circ$}
+		\setlist[itemize,3]{label=$\ast$}
+		\setlist[itemize,4]{label=$\dagger$}
+		\setlist[itemize,5]{label=$\triangleright$}
+		\setlist[itemize,6]{label=$\bigstar$}
+		\setlist[itemize,7]{label=$\blacklozenge$}
+		\setlist[itemize,8]{label=$\prime$}
+
+\setlength{\topsep}{0pt}\setlength{\parskip}{8.04pt}
+\setlength{\parindent}{0pt}
+
+
+\renewcommand{\arraystretch}{1.3}
+
+
+\begin{document}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+\begin{Center}
+{\fontsize{24pt}{28.8pt}\selectfont \textbf{CSE 344}}
+\end{Center}
+\begin{Center}
+{\fontsize{24pt}{28.8pt}\selectfont \textbf{SYSTEMS PROGRAMMING}}
+\end{Center}
+\begin{Center}
+{\fontsize{24pt}{28.8pt}\selectfont \textbf{SPRING 2021}}
+\end{Center}
+
+\vspace{\baselineskip}
+\begin{Center}
+{\fontsize{24pt}{28.8pt}\selectfont \textbf{FINAL HOMEWORK}}
+\end{Center}
+\begin{Center}
+{\fontsize{24pt}{28.8pt}\selectfont \textbf{REPORT}}
+\end{Center}
+
+\vspace{\baselineskip}
+\begin{Center}
+{\fontsize{24pt}{28.8pt}\selectfont \textbf{TURKER TERCAN}}
+\end{Center}
+\begin{Center}
+{\fontsize{24pt}{28.8pt}\selectfont \textbf{171044032}}
+\end{Center}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+\newpage
+\begin{justify}
+{\fontsize{16pt}{19.2pt}\selectfont \uline{HOMEWORK’S CHALLANGE:}}
+\end{justify}
+\begin{itemize}
+	\item Trying to simulate and SQL Server, implement both Client and Server codes with multithreaded programming.
+	\item Server will start with reading CSV file. It will load this file into memory and work with that like an SQL Database table.
+	\item Server and Clients will communicate with a Socket that its port given by an argument.
+	\item Server creates pool of threads to handle communication between Server and Clients.
+	\item Main thread connects to a client, and then it forwards that file descriptor to not busy thread.
+	\item Server is working like a daemon process and there is no chance to instantiate it for the second time.
+	\item Every client sends bunch of queries to the server, and the server forwards it to an available pool thread. 
+	\item Every pool thread is racing to each other. Some of them work like writers and some of them works like readers. 
+	\item Once a SIGINT signal arrives, it will stop pending queries to the pool threads and when they will be finished also main threads finishes.
+\end{itemize}
+
+\newpage
+\vspace{\baselineskip}
+\begin{justify}
+{\fontsize{16pt}{19.2pt}\selectfont \uline{DESIGN CHOICES:}}
+\end{justify}
+\begin{justify}
+{\fontsize{14pt}{16.8pt}\selectfont \uline{Parsing CSV Table and Data Structure:}}
+\end{justify}
+\begin{itemize}
+	\item I created another class for database (Database.c and Database.h) to read and store the CSV file.
+	\item I used an optimized linked list for storing every row(records). In every row node, there is a string array that its size is equal to column size of the csv file.
+	\item Read CSV file line by line and store it in the linked list.
+	\item I used a last node in the linked list so I can add the last node a new node, instead of iterating all nodes from the beginning.
+	\item I know getting a node from the list takes O(n) time, so optimized it in a way that, when it needs to iterate list from the beginning, I iterated first node, so it takes O(n) time instead of O(n$ \string^ $ 2) time.
+\end{itemize}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+\setlength{\parskip}{0.0pt}
+\begin{justify}
+{\fontsize{14pt}{16.8pt}\selectfont \uline{Mutex and Condition Variables:}}
+\end{justify}
+\begin{itemize}
+	\item I only used monitors for solving race conditions.
+\end{itemize}
+
+\vspace{\baselineskip}
+\begin{itemize}
+	\item I used an integer to check how many available pool threads are there. If there is no thread available in the pool. Main thread waits that condition. Otherwise, it forwards connected file descriptor to the first available thread and decrements the available pool integer, signals selected pools thread.
+
+\vspace{\baselineskip}
+	\item I created a condition variable for each thread so, main thread can wake the selected thread up.
+
+\vspace{\baselineskip}
+	\item Every pool thread contains two race condition problems. One of them is multithreaded server client model and the other is readers and writers problem about access to database.
+
+\vspace{\baselineskip}
+	\item Every thread has busy flag and connection file descriptor to handle. When the server initialized, pool threads wait its own condition variable and checks busy flag and connection file descriptor is forwarded to itself.
+\end{itemize}
+
+\vspace{\baselineskip}
+\begin{itemize}
+	\item After the thread waken up, it parses the SQL Query. I implemented readers and writers problem like we learned in the class. Writers have more priority than the Readers. If an UPDATE SQL Query arrives, makes sures that there is no reader process access critical region. And when there is no writer query, it broadcasts to all waiting reader process.
+\end{itemize}
+
+\vspace{\baselineskip}
+\begin{itemize}
+	\item When there is no query to execute, closes the connection and increment available pool integer.
+\end{itemize}
+
+\vspace{\baselineskip}
+\setlength{\parskip}{8.04pt}
+\begin{justify}
+{\fontsize{16pt}{19.2pt}\selectfont \uline{Client}}
+\end{justify}
+\begin{itemize}
+	\item Client reads the given file. It only copies the lines that is spaced for its id.
+	\item Connects to the socket and writes to socket one query.
+	\item It reads the response and prints it.
+	\item Also, I check, if there is no space between comma and next string, I shifted one space to the right.
+	\item If there is no query to send, it closes the connection and terminates.
+\end{itemize}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\vspace{\baselineskip}
+
+\newpage
+\vspace{\baselineskip}
+\begin{justify}
+{\fontsize{16pt}{19.2pt}\selectfont \uline{SQL Parsing}}
+\end{justify}
+\begin{itemize}
+	\item I implemeted\ all the functions you asked for. SELECT, SELECT DISTINCT, UPDATE and  WHERE conditions.
+\end{itemize}
+
+\vspace{\baselineskip}
+\begin{justify}
+{\fontsize{16pt}{19.2pt}\selectfont \uline{Tests And Valgrind:}}
+\end{justify}
+\begin{justify}
+I tried several csv files and all of them works properly. You can see the queries, csv file and bash script for the clients in the Test Case folder. I run 260 clients at the same time and all of them worked properly. Also, there is Valgrind outputs, server and clients outputs in the same folder. 
+\end{justify}
+\begin{justify}
+{\fontsize{16pt}{19.2pt}\selectfont \uline{Final Notes:}}
+\end{justify}
+\setlength{\parskip}{0.0pt}
+\begin{itemize}
+	\item Daemon process created and double instantion of the server is blocked.
+\setlength{\parskip}{8.04pt}
+	\item All the memory and recources are freed when server is terminated.
+	\item SIGINT signal implemented and only way to terminate the server is to send SIGINT signal.
+\end{itemize}
+\begin{itemize}
+	\item All the synchronization is done by monitors.
+	\item SELECT, SELECT DISTINC, UPDATE SQL commands are implemented.
+	\item All of the requirements has done.
+\end{itemize}
+\printbibliography
+\end{document}

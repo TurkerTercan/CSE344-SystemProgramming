@@ -1,0 +1,2867 @@
+Executing with parameters:
+-p 6900
+-o serverLog.txt
+-l 20
+-d annual.csv
+Loading dataset...
+Dataset loaded in 1.11 seconds with 32445 records.
+Thread #2: waiting for connection
+Thread #1: waiting for connection
+Thread #3: waiting for connection
+Thread #6: waiting for connection
+Thread #5: waiting for connection
+Thread #9: waiting for connection
+Thread #4: waiting for connection
+Thread #0: waiting for connection
+Thread #10: waiting for connection
+Thread #7: waiting for connection
+Thread #8: waiting for connection
+Thread #13: waiting for connection
+Thread #14: waiting for connection
+Thread #11: waiting for connection
+Thread #15: waiting for connection
+Thread #12: waiting for connection
+A pool of 20 threads has been created
+Thread #19: waiting for connection
+Thread #17: waiting for connection
+Thread #16: waiting for connection
+Thread #18: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #1
+A connection has been delegated to thread id #2
+Thread #2: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #3
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #1: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #4
+A connection has been delegated to thread id #5
+Thread #4: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #6
+Thread #6: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+A connection has been delegated to thread id #7
+Thread #7: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #8
+Thread #8: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+A connection has been delegated to thread id #9
+Thread #9: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #10
+Thread #10: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+A connection has been delegated to thread id #11
+A connection has been delegated to thread id #12
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #12: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #13
+Thread #13: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+A connection has been delegated to thread id #14
+A connection has been delegated to thread id #15
+Thread #15: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #16
+Thread #16: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #17
+Thread #17: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #18
+A connection has been delegated to thread id #19
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #14: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #4: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #11: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #2: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #3: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #13: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #6: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #18: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #19: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #14: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #5: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #17: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #12: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #0: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #7: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #4: query completed, 32447 records have been returned
+Thread #8: query completed, 121 records have been returned
+Thread #8: received query 'SELECT * FROM TABLE;'
+Thread #13: query completed, 121 records have been returned
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #11: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #6: query completed, 121 records have been returned
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #4: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #3: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #10: query completed, 121 records have been returned
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #16: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #5: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #18: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #17: query completed, 32447 records have been returned
+Thread #15: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #5: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #17: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #1: query completed, 21941 records have been returned
+Thread #1: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #9: query completed, 21941 records have been returned
+Thread #9: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #2: query completed, 21941 records have been returned
+Thread #14: query completed, 21941 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #14: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #19: query completed, 21941 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #0: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #7: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #18: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #15: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #13: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #8: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #10: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #1: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #14: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #19: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #12: query completed, 11902 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+No thread is available! Waiting...
+Thread #12: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #18: query completed, 11902 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #15: query completed, 11902 records have been returned
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+No thread is available! Waiting...
+Thread #15: received query 'SELECT * FROM TABLE;'
+Thread #7: query completed, 11902 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+No thread is available! Waiting...
+Thread #7: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 11902 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #3: query completed, 16855 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #5: query completed, 16855 records have been returned
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #17: query completed, 16855 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+No thread is available! Waiting...
+Thread #17: received query 'SELECT * FROM TABLE;'
+Thread #4: query completed, 16855 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+Thread #4: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 16855 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+No thread is available! Waiting...
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #11: query completed, 16855 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+No thread is available! Waiting...
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+No thread is available! Waiting...
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+Thread #13: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #8: query completed, 32447 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+Thread #8: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #1: query completed, 32447 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+No thread is available! Waiting...
+Thread #1: received query 'SELECT * FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+Thread #9: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+No thread is available! Waiting...
+Thread #2: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+No thread is available! Waiting...
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+No thread is available! Waiting...
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #18: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #7: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #17: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #5: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #16: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #13: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #18: query completed, 121 records have been returned
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #1: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #7: query completed, 32447 records have been returned
+Thread #12: query completed, 121 records have been returned
+Thread #12: received query 'SELECT * FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #15: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #2: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #19: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #2: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #3: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #14: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #16: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #11: query completed, 32447 records have been returned
+Thread #11: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #6: query completed, 32447 records have been returned
+Thread #13: query completed, 121 records have been returned
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #6: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #8: query completed, 32447 records have been returned
+Thread #8: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #12: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #1: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #18: query completed, 32447 records have been returned
+Thread #12: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #18: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #0: query completed, 20491 records have been returned
+Thread #0: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #5: query completed, 20491 records have been returned
+Thread #5: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #17: query completed, 20491 records have been returned
+Thread #4: query completed, 20491 records have been returned
+Thread #4: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #17: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #7: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #15: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #16: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #11: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+No thread is available! Waiting...
+Thread #12: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #2: query completed, 121 records have been returned
+Thread #9: query completed, 121 records have been returned
+Thread #2: received query 'SELECT * FROM TABLE;'
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #1: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #14: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #18: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #13: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #10: query completed, 20491 records have been returned
+Thread #10: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #5: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #19: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #14: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+No thread is available! Waiting...
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #2: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #9: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #3: query completed, 11902 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #15: query completed, 11902 records have been returned
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+No thread is available! Waiting...
+Thread #15: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #6: query completed, 11902 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+No thread is available! Waiting...
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #7: query completed, 16684 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+No thread is available! Waiting...
+Thread #7: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 16684 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+Thread #1: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #11: query completed, 16684 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+No thread is available! Waiting...
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #8: query completed, 16684 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+No thread is available! Waiting...
+Thread #8: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #16: query completed, 16684 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+No thread is available! Waiting...
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+Thread #2: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #4: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #18: query completed, 121 records have been returned
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+Thread #4: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+No thread is available! Waiting...
+Thread #17: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #12: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+Thread #9: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #12: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #15: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #15: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #3: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #13: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #7: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #19: query completed, 16684 records have been returned
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+No thread is available! Waiting...
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #14: query completed, 16684 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+Thread #10: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #2: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #15: query completed, 121 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #15: received query 'SELECT * FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #6: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #11: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #4: query completed, 32447 records have been returned
+Thread #13: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #12: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #12: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #18: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #5: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #9: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #16: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #0: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #8: query completed, 121 records have been returned
+Thread #8: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 20491 records have been returned
+Thread #1: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #3: query completed, 20491 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #7: query completed, 20491 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #10: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #17: query completed, 121 records have been returned
+Thread #17: received query 'SELECT * FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #2: query completed, 121 records have been returned
+Thread #2: received query 'SELECT * FROM TABLE;'
+Thread #5: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #19: query completed, 32447 records have been returned
+Thread #14: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #9: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #13: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #18: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+Thread #18: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #8: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #15: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #12: query completed, 11902 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+No thread is available! Waiting...
+Thread #12: received query 'SELECT * FROM TABLE;'
+Thread #16: query completed, 20491 records have been returned
+Thread #16: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #0: query completed, 20491 records have been returned
+Thread #0: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #4: query completed, 20491 records have been returned
+Thread #4: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #1: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #10: query completed, 121 records have been returned
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+Thread #8: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+No thread is available! Waiting...
+Thread #15: received query 'SELECT * FROM TABLE;'
+Thread #9: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #17: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #12: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #18: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #6: query completed, 11902 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #11: query completed, 11902 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+Thread #11: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #13: query completed, 16684 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+Thread #13: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+Thread #17: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+No thread is available! Waiting...
+Thread #2: received query 'SELECT * FROM TABLE;'
+Thread #0: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+Thread #1: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #3: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+No thread is available! Waiting...
+Thread #7: received query 'SELECT * FROM TABLE;'
+Thread #4: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #12: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #6: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #8: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #15: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #10: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #13: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+No thread is available! Waiting...
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #17: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #2: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #1: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #5: query completed, 11902 records have been returned
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #9: query completed, 11902 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+No thread is available! Waiting...
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #19: query completed, 16684 records have been returned
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+Thread #19: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #14: query completed, 16684 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #18: query completed, 20491 records have been returned
+Thread #18: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #12: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #6: query completed, 121 records have been returned
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+No thread is available! Waiting...
+Thread #4: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #15: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #15: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #1: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #11: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #13: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #8: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #10: query completed, 32447 records have been returned
+Thread #17: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #9: query completed, 32447 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+No thread is available! Waiting...
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #0: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #5: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #2: query completed, 20491 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #18: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #4: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #15: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #1: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #3: query completed, 121 records have been returned
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #13: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #9: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #14: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #5: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #16: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #9: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #8: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #6: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #10: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #17: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #12: query completed, 11902 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+Thread #12: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #7: query completed, 20491 records have been returned
+Thread #0: query completed, 20491 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #0: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #2: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #19: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #4: query completed, 121 records have been returned
+Thread #4: received query 'SELECT * FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+Thread #18: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #3: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #9: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #12: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: query completed, 11902 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+Thread #1: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #11: query completed, 11902 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+No thread is available! Waiting...
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #13: query completed, 11902 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+No thread is available! Waiting...
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #15: query completed, 11902 records have been returned
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+Thread #15: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #8: query completed, 16684 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+No thread is available! Waiting...
+Thread #8: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #17: query completed, 16684 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+No thread is available! Waiting...
+Thread #17: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #10: query completed, 20491 records have been returned
+Thread #10: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #7: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+Thread #2: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #12: query completed, 32447 records have been returned
+Thread #12: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #13: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #18: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #11: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #15: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #19: query completed, 11902 records have been returned
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+Thread #19: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 16684 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+No thread is available! Waiting...
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #9: query completed, 16684 records have been returned
+Thread #5: query completed, 16684 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+No thread is available! Waiting...
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #14: query completed, 16684 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #17: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #10: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #6: query completed, 121 records have been returned
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #15: query completed, 121 records have been returned
+Thread #15: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+Thread #7: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #1: query completed, 32447 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #4: query completed, 32447 records have been returned
+Thread #13: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #12: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+Thread #4: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #18: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #11: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #2: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #19: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #3: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #9: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #5: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #8: query completed, 121 records have been returned
+Thread #8: received query 'SELECT * FROM TABLE;'
+Thread #17: query completed, 121 records have been returned
+Thread #17: received query 'SELECT * FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+No thread is available! Waiting...
+Thread #10: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #15: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #15: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #1: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #6: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #13: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #1: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #13: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #3: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #4: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #11: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #5: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #8: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #8: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #17: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #12: query completed, 16684 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+No thread is available! Waiting...
+Thread #12: received query 'SELECT * FROM TABLE;'
+Thread #16: query completed, 20491 records have been returned
+Thread #16: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #9: query completed, 20491 records have been returned
+Thread #9: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #14: query completed, 20491 records have been returned
+Thread #14: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #10: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+No thread is available! Waiting...
+Thread #15: received query 'SELECT * FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+Thread #8: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #19: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #0: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #5: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #17: query completed, 32447 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+Thread #17: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #12: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #13: query completed, 11902 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+No thread is available! Waiting...
+Thread #13: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #1: query completed, 11902 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+No thread is available! Waiting...
+Thread #1: received query 'SELECT * FROM TABLE;'
+Thread #18: query completed, 16684 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #11: query completed, 16684 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+No thread is available! Waiting...
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #7: query completed, 20491 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #16: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #16: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #14: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #10: query completed, 121 records have been returned
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #12: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #13: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #6: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #19: query completed, 11902 records have been returned
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+No thread is available! Waiting...
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #2: query completed, 11902 records have been returned
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+No thread is available! Waiting...
+Thread #2: received query 'SELECT * FROM TABLE;'
+Thread #3: query completed, 16684 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+Thread #3: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #5: query completed, 16684 records have been returned
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #7: query completed, 32447 records have been returned
+Thread #13: query completed, 121 records have been returned
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+Thread #14: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #16: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+Thread #16: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+No thread is available! Waiting...
+Thread #9: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #6: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #1: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #17: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #10: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #6: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #18: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #19: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #10: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #12: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #2: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #13: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #0: query completed, 11902 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #4: query completed, 16684 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+No thread is available! Waiting...
+Thread #4: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #8: query completed, 20491 records have been returned
+Thread #8: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #11: query completed, 20491 records have been returned
+Thread #11: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #15: query completed, 20491 records have been returned
+Thread #15: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #14: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+No thread is available! Waiting...
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #6: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #7: query completed, 32447 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+No thread is available! Waiting...
+Thread #7: received query 'SELECT * FROM TABLE;'
+Thread #18: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+Thread #13: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #0: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #12: query completed, 11902 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+No thread is available! Waiting...
+Thread #12: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #2: query completed, 20491 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #5: query completed, 20491 records have been returned
+Thread #5: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #19: query completed, 20491 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #3: query completed, 20491 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #4: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #16: query completed, 121 records have been returned
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #9: query completed, 121 records have been returned
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #14: query completed, 121 records have been returned
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #0: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #11: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #12: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #7: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #10: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #1: query completed, 11902 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+Thread #1: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #17: query completed, 11902 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+Thread #17: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #6: query completed, 16684 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #18: query completed, 16684 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #5: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #4: query completed, 121 records have been returned
+Thread #4: received query 'SELECT * FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+No thread is available! Waiting...
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #12: query completed, 121 records have been returned
+Thread #12: received query 'SELECT * FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+Thread #8: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+No thread is available! Waiting...
+Thread #15: received query 'SELECT * FROM TABLE;'
+Thread #7: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #13: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #3: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #16: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #16: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #0: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #9: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #17: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #14: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #1: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #10: query completed, 20491 records have been returned
+Thread #10: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #13: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #13: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+Thread #9: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #16: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+No thread is available! Waiting...
+Thread #16: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #19: query completed, 32447 records have been returned
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+Thread #19: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #1: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+Thread #5: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+No thread is available! Waiting...
+Thread #2: received query 'SELECT * FROM TABLE;'
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #1: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #17: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #14: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+Thread #14: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #4: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #15: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #4: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #12: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #8: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #11: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #18: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #0: query completed, 11902 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #10: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #1: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #6: query completed, 121 records have been returned
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+No thread is available! Waiting...
+Thread #4: received query 'SELECT * FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #18: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+Thread #12: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #11: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #14: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #3: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #19: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+No thread is available! Waiting...
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #9: query completed, 121 records have been returned
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #16: query completed, 121 records have been returned
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #5: query completed, 121 records have been returned
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #6: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #4: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #13: query completed, 11902 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+Thread #13: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #7: query completed, 16684 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+Thread #7: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #1: query completed, 16684 records have been returned
+Thread #17: query completed, 16684 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+No thread is available! Waiting...
+Thread #1: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+No thread is available! Waiting...
+Thread #17: received query 'SELECT * FROM TABLE;'
+Thread #8: query completed, 20491 records have been returned
+Thread #8: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #15: query completed, 20491 records have been returned
+Thread #15: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #11: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #0: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #2: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #16: query completed, 32447 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #9: query completed, 32447 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #14: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #11: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #4: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #12: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #9: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #10: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #13: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #16: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #5: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #10: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #7: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #17: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #15: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #18: query completed, 11902 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #2: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #14: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+Thread #16: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+Thread #9: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #15: query completed, 32447 records have been returned
+Thread #7: query completed, 121 records have been returned
+Thread #7: received query 'SELECT * FROM TABLE;'
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+Thread #15: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #1: query completed, 121 records have been returned
+Thread #1: received query 'SELECT * FROM TABLE;'
+Thread #4: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #10: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+A connection has been delegated to thread id #8
+No thread is available! Waiting...
+Thread #8: received query 'SELECT * FROM TABLE;'
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #9: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #7: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #1: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #2: query completed, 11902 records have been returned
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+Thread #2: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #4: query completed, 16684 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+No thread is available! Waiting...
+Thread #4: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #11: query completed, 16684 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+Thread #11: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #19: query completed, 16684 records have been returned
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+No thread is available! Waiting...
+Thread #19: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #14: query completed, 16684 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #3: query completed, 16684 records have been returned
+Thread #0: query completed, 16684 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+No thread is available! Waiting...
+Thread #0: received query 'SELECT * FROM TABLE;'
+Thread #13: query completed, 20491 records have been returned
+Thread #13: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #17: query completed, 20491 records have been returned
+Thread #17: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #12: query completed, 20491 records have been returned
+Thread #12: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #10: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+No thread is available! Waiting...
+Thread #7: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+Thread #1: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #4: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #15: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #6: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #19: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #9: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #16: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #5: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #5: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #14: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #3: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #13: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #2: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #18: query completed, 20491 records have been returned
+Thread #18: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #17: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #19: query completed, 121 records have been returned
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #4: query completed, 121 records have been returned
+Thread #4: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #11: query completed, 121 records have been returned
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+No thread is available! Waiting...
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #0: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #8: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #9: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #14: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #16: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #1: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #10: query completed, 11902 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+Thread #10: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #2: query completed, 20491 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #3: query completed, 20491 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #5: query completed, 20491 records have been returned
+Thread #5: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #18: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+Thread #17: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #18: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #0: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+Thread #12: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #7: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #14: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #4: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #10: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #11: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #13: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #4: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #6: query completed, 11902 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #15: query completed, 11902 records have been returned
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+Thread #15: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #9: query completed, 11902 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+Thread #9: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 16684 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+Thread #16: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #1: query completed, 20491 records have been returned
+Thread #1: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #2: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+Thread #19: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #3: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #7: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #5: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+No thread is available! Waiting...
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+Thread #4: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #13: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #13: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #10: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #6: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #16: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #9: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #12: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: query completed, 11902 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+No thread is available! Waiting...
+Thread #0: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #8: query completed, 11902 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+Thread #8: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #14: query completed, 16684 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #18: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+Thread #3: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #5: query completed, 32447 records have been returned
+Thread #6: query completed, 121 records have been returned
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #13: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+Thread #2: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #12: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #9: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #17: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #15: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #12: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #11: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #8: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #19: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+No thread is available! Waiting...
+Thread #1: received query 'SELECT * FROM TABLE;'
+Thread #14: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #4: query completed, 121 records have been returned
+Thread #4: received query 'SELECT * FROM TABLE;'
+Thread #18: query completed, 121 records have been returned
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #7: query completed, 11902 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+Thread #7: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 20491 records have been returned
+Thread #16: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #3: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #17: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #0: query completed, 121 records have been returned
+Thread #0: received query 'SELECT * FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #12: query completed, 32447 records have been returned
+Thread #8: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #15: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #14: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #11: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #5: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #6: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #1: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #18: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #1: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #7: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #13: query completed, 11902 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+No thread is available! Waiting...
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #10: query completed, 16684 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+Thread #10: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #19: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #11: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #1: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #3: query completed, 121 records have been returned
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #1: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #18: query completed, 32447 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+Thread #4: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #7: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+Thread #18: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #0: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #0: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #13: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+Thread #16: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #10: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #3: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #6: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #19: query completed, 11902 records have been returned
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+No thread is available! Waiting...
+Thread #19: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #8: query completed, 11902 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+No thread is available! Waiting...
+Thread #8: received query 'SELECT * FROM TABLE;'
+Thread #14: query completed, 11902 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #9: query completed, 11902 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+Thread #9: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #17: query completed, 11902 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+No thread is available! Waiting...
+Thread #17: received query 'SELECT * FROM TABLE;'
+Thread #12: query completed, 16684 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+Thread #12: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #11: query completed, 16684 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+Thread #11: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #15: query completed, 16684 records have been returned
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+Thread #15: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #2: query completed, 20491 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #5: query completed, 20491 records have been returned
+Thread #5: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #1: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #7: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #16: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #13: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #17: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #17: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #18: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #12: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #4: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #10: query completed, 20491 records have been returned
+Thread #10: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #6: query completed, 20491 records have been returned
+Thread #6: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #2: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #16: query completed, 121 records have been returned
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #19: query completed, 121 records have been returned
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #14: query completed, 121 records have been returned
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #2: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #9: query completed, 121 records have been returned
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #17: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #15: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #4: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #11: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #13: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #3: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #0: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: query completed, 11902 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+Thread #1: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #7: query completed, 16684 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+No thread is available! Waiting...
+Thread #7: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #12: query completed, 20491 records have been returned
+Thread #12: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #8: query completed, 20491 records have been returned
+Thread #8: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #18: query completed, 20491 records have been returned
+Thread #18: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #10: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #15: query completed, 121 records have been returned
+Thread #15: received query 'SELECT * FROM TABLE;'
+Thread #17: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+No thread is available! Waiting...
+Thread #2: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #0: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #14: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #14: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #9: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #11: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #16: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #19: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #11: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #13: query completed, 16684 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+No thread is available! Waiting...
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #3: query completed, 20491 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #7: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+Thread #14: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #5: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+No thread is available! Waiting...
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #0: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+No thread is available! Waiting...
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+No thread is available! Waiting...
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+No thread is available! Waiting...
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #1: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+No thread is available! Waiting...
+Thread #16: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #13: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #2: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #11: query completed, 11902 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+No thread is available! Waiting...
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #17: query completed, 11902 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+No thread is available! Waiting...
+Thread #17: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #4: query completed, 11902 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+No thread is available! Waiting...
+Thread #4: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #3: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #5: query completed, 121 records have been returned
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+No thread is available! Waiting...
+Thread #8: received query 'SELECT * FROM TABLE;'
+Thread #7: query completed, 121 records have been returned
+Thread #7: received query 'SELECT * FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+No thread is available! Waiting...
+Thread #12: received query 'SELECT * FROM TABLE;'
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #1: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #16: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+Thread #15: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #9: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #6: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #10: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #14: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #9: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #0: query completed, 16684 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+No thread is available! Waiting...
+Thread #0: received query 'SELECT * FROM TABLE;'
+Thread #2: query completed, 20491 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #13: query completed, 20491 records have been returned
+Thread #13: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #17: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #16: query completed, 121 records have been returned
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #6: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #14: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #17: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #9: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #10: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #18: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #15: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #8: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #5: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #12: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #1: query completed, 11902 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+No thread is available! Waiting...
+Thread #1: received query 'SELECT * FROM TABLE;'
+Thread #11: query completed, 20491 records have been returned
+Thread #11: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #19: query completed, 20491 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #2: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #13: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #9: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #7: query completed, 32447 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+Thread #7: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #10: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #17: query completed, 121 records have been returned
+Thread #17: received query 'SELECT * FROM TABLE;'
+Thread #15: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #4: query completed, 121 records have been returned
+Thread #4: received query 'SELECT * FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #18: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+Thread #5: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #8: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #15: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #12: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #1: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #16: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #3: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: query completed, 20491 records have been returned
+Thread #0: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #18: query completed, 32447 records have been returned
+Thread #11: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #11: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #18: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #15: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+Thread #2: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #3: query completed, 32447 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+No thread is available! Waiting...
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #16: query completed, 32447 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+Thread #16: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #1: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #12: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #3: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #4: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #17: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #5: query completed, 32447 records have been returned
+Thread #4: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #7: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #5: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: query completed, 11902 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+No thread is available! Waiting...
+Thread #6: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #14: query completed, 11902 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #10: query completed, 16684 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+No thread is available! Waiting...
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #9: query completed, 16684 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+No thread is available! Waiting...
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+Thread #17: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #1: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+Thread #11: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #3: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+No thread is available! Waiting...
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+Thread #4: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #5: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #5: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #14: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #16: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #13: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #2: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #10: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+Thread #0: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #9: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #15: query completed, 11902 records have been returned
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+No thread is available! Waiting...
+Thread #15: received query 'SELECT * FROM TABLE;'
+Thread #18: query completed, 11902 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 11902 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+Thread #1: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #8: query completed, 16684 records have been returned
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+Thread #8: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #12: query completed, 16684 records have been returned
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+Thread #12: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #7: query completed, 20491 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #11: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #11: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #6: query completed, 121 records have been returned
+Thread #6: received query 'SELECT * FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #13: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #14: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #9: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #0: query completed, 32447 records have been returned
+Thread #10: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #17: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #19: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #1: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #15: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #18: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #3: query completed, 16684 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+Thread #3: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 20491 records have been returned
+Thread #16: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #8: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #8: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #14: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #2: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #9: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: query completed, 121 records have been returned
+Thread #4: received query 'SELECT * FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #11: query completed, 121 records have been returned
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #18: query completed, 32447 records have been returned
+Thread #19: query completed, 32447 records have been returned
+Thread #0: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #10: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #1: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #18: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #3: query completed, 32447 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #6: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #17: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #12: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #12: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #5: query completed, 16684 records have been returned
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #15: query completed, 20491 records have been returned
+Thread #15: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #0: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #18: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #8: query completed, 121 records have been returned
+Thread #8: received query 'SELECT * FROM TABLE;'
+Thread #7: query completed, 32447 records have been returned
+Thread #7: waiting for connection
+A connection has been delegated to thread id #7
+Thread #7: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #3: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #18: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #19: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #11: query completed, 32447 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #4: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #11: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #4: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #5: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #2: query completed, 11902 records have been returned
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+Thread #2: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #9: query completed, 11902 records have been returned
+Thread #9: waiting for connection
+A connection has been delegated to thread id #9
+Thread #9: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #10: query completed, 16684 records have been returned
+Thread #10: waiting for connection
+A connection has been delegated to thread id #10
+No thread is available! Waiting...
+Thread #10: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #13: query completed, 16684 records have been returned
+Thread #13: waiting for connection
+A connection has been delegated to thread id #13
+No thread is available! Waiting...
+Thread #13: received query 'SELECT * FROM TABLE;'
+Thread #14: query completed, 16684 records have been returned
+Thread #14: waiting for connection
+A connection has been delegated to thread id #14
+No thread is available! Waiting...
+Thread #14: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #17: query completed, 16684 records have been returned
+Thread #17: waiting for connection
+A connection has been delegated to thread id #17
+No thread is available! Waiting...
+Thread #17: received query 'SELECT * FROM TABLE;'
+Thread #12: query completed, 20491 records have been returned
+Thread #12: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #15: query completed, 32447 records have been returned
+Thread #3: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #15: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #7: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #11: waiting for connection
+A connection has been delegated to thread id #11
+No thread is available! Waiting...
+Thread #11: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #3: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4
+Thread #4: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 32447 records have been returned
+Thread #16: waiting for connection
+A connection has been delegated to thread id #16
+No thread is available! Waiting...
+Thread #16: received query 'SELECT * FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #10: query completed, 32447 records have been returned
+Thread #13: query completed, 32447 records have been returned
+Thread #9: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #6: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #10: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #8: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #2: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #0: query completed, 11902 records have been returned
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0
+No thread is available! Waiting...
+Thread #0: received query 'SELECT * FROM TABLE;'
+Thread #19: query completed, 16684 records have been returned
+Thread #19: waiting for connection
+A connection has been delegated to thread id #19
+No thread is available! Waiting...
+Thread #19: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 16684 records have been returned
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1
+No thread is available! Waiting...
+Thread #1: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #18: query completed, 16684 records have been returned
+Thread #18: waiting for connection
+A connection has been delegated to thread id #18
+No thread is available! Waiting...
+Thread #18: received query 'SELECT * FROM TABLE;'
+Thread #5: query completed, 20491 records have been returned
+Thread #5: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #12: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #14: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #15: waiting for connection
+A connection has been delegated to thread id #15
+Thread #15: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #12: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #9: query completed, 121 records have been returned
+Thread #7: query completed, 121 records have been returned
+Thread #7: received query 'SELECT * FROM TABLE;'
+Thread #9: received query 'SELECT * FROM TABLE;'
+Thread #10: query completed, 121 records have been returned
+Thread #10: received query 'SELECT * FROM TABLE;'
+Thread #13: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #2: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #6: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #8: waiting for connection
+A connection has been delegated to thread id #8
+Thread #8: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+No thread is available! Waiting...
+Thread #13: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #11: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #17: query completed, 32447 records have been returned
+Thread #4: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #0: query completed, 32447 records have been returned
+Thread #17: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #4: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #16: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #0: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #3: query completed, 16684 records have been returned
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3
+No thread is available! Waiting...
+Thread #3: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #5: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #1: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #5: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #8: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #0: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #12: waiting for connection
+A connection has been delegated to thread id #12
+Thread #12: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #16: query completed, 32447 records have been returned
+Thread #11: query completed, 121 records have been returned
+Thread #11: received query 'SELECT * FROM TABLE;'
+Thread #14: query completed, 121 records have been returned
+Thread #14: received query 'SELECT * FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #0: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #8: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #16: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #10: query completed, 32447 records have been returned
+Thread #17: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #13: query completed, 32447 records have been returned
+Thread #7: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #13: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #18: query completed, 32447 records have been returned
+Thread #9: query completed, 32447 records have been returned
+Thread #7: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #15: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #10: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #18: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #9: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #3: query completed, 32447 records have been returned
+Thread #3: received query 'SELECT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #1: query completed, 121 records have been returned
+Thread #1: received query 'SELECT * FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #5: waiting for connection
+A connection has been delegated to thread id #5
+No thread is available! Waiting...
+Thread #5: received query 'SELECT * FROM TABLE;'
+Thread #11: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #14: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT DISTINCT Year, Variable_name, Value FROM TABLE;'
+Thread #14: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #11: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #6: query completed, 11902 records have been returned
+Thread #6: waiting for connection
+A connection has been delegated to thread id #6
+Thread #6: received query 'SELECT * FROM TABLE;'
+No thread is available! Waiting...
+Thread #2: query completed, 11902 records have been returned
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2
+Thread #2: received query 'UPDATE TABLE SET Industry_name_NZSIOC='Farmers of Akselendi' WHERE Industry_name_NZSIOC='Dairy Cattle Farming';'
+Thread #19: query completed, 20491 records have been returned
+Thread #19: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #0: query completed, 32447 records have been returned
+Thread #16: query completed, 32447 records have been returned
+Thread #0: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #4: query completed, 32447 records have been returned
+Thread #17: query completed, 32447 records have been returned
+Thread #16: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #17: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #10: query completed, 32447 records have been returned
+Thread #4: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #10: waiting for connection
+Thread #7: query completed, 32447 records have been returned
+Thread #7: waiting for connection
+Thread #9: query completed, 32447 records have been returned
+Thread #9: waiting for connection
+Thread #11: query completed, 32447 records have been returned
+Thread #11: waiting for connection
+Thread #14: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #14: waiting for connection
+Thread #8: query completed, 121 records have been returned
+Thread #8: received query 'SELECT * FROM TABLE;'
+Thread #1: query completed, 32447 records have been returned
+Thread #15: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #3: query completed, 32447 records have been returned
+Thread #2: query completed, 32447 records have been returned
+Thread #3: received query 'UPDATE TABLE SET Variable_name='Opening stocks' WHERE Variable_name='Non-operating income';'
+Thread #6: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT DISTINCT Industry_name_NZSIOC FROM TABLE;'
+Thread #1: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #6: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #5: received query 'SELECT Industry_aggregation_NZSIOC, Variable_name, Value FROM TABLE;'
+Thread #13: query completed, 16684 records have been returned
+Thread #13: waiting for connection
+Thread #12: query completed, 20491 records have been returned
+Thread #12: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #18: query completed, 20491 records have been returned
+Thread #18: received query 'UPDATE TABLE SET Year='2023', Variable_code='TR2023' WHERE Year='2017';'
+Thread #19: query completed, 32447 records have been returned
+Thread #15: query completed, 32447 records have been returned
+Thread #19: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #6: query completed, 32447 records have been returned
+Thread #15: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #2: query completed, 121 records have been returned
+Thread #1: query completed, 32447 records have been returned
+Thread #2: received query 'SELECT * FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #6: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #1: waiting for connection
+Thread #5: received query 'UPDATE TABLE SET Industry_aggregation_NZSIOC='Level 4', Value='1998' WHERE Units='Dollars';'
+Thread #3: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #8: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #3: received query 'SELECT DISTINCT Variable_code, Variable_name, Variable_category, Value FROM TABLE;'
+Thread #4: query completed, 11902 records have been returned
+Thread #4: waiting for connection
+Thread #17: query completed, 11902 records have been returned
+Thread #17: waiting for connection
+Thread #0: query completed, 11902 records have been returned
+Thread #0: waiting for connection
+Thread #16: query completed, 16684 records have been returned
+Thread #16: waiting for connection
+Thread #18: query completed, 32447 records have been returned
+Thread #12: query completed, 32447 records have been returned
+Thread #12: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #5: query completed, 32447 records have been returned
+Thread #18: received query 'SELECT Year, Variable_name, Value FROM TABLE;'
+Thread #19: query completed, 32447 records have been returned
+Thread #6: query completed, 32447 records have been returned
+Thread #19: waiting for connection
+Thread #5: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #2: query completed, 32447 records have been returned
+Thread #8: query completed, 32447 records have been returned
+Thread #6: received query 'SELECT DISTINCT Industry_aggregation_NZSIOC, Value, Units FROM TABLE;'
+Thread #8: waiting for connection
+Thread #2: received query 'UPDATE TABLE SET Variable_code='TR34' WHERE Variable_category='Financial position';'
+Thread #12: query completed, 32447 records have been returned
+Thread #12: waiting for connection
+Thread #18: query completed, 32447 records have been returned
+Thread #18: waiting for connection
+Thread #15: query completed, 11902 records have been returned
+Thread #15: waiting for connection
+Thread #5: query completed, 11902 records have been returned
+Thread #5: waiting for connection
+Thread #6: query completed, 11902 records have been returned
+Thread #6: waiting for connection
+Thread #3: query completed, 16684 records have been returned
+Thread #3: waiting for connection
+Thread #2: query completed, 32447 records have been returned
+Thread #2: waiting for connection
+Termination signal received, waiting for ongoing threads to complete.
+All threads have terminated, server shutting down.
