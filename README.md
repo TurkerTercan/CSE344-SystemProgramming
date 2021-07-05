@@ -22,8 +22,35 @@ Homework 1 => advanced file search program for POSIX compatible operating system
 	Usage: 	make
 		./myFind -w targetDirectoryPath -f 'lost+file' -b 100 -t b
 
-Homework 2 =>
-Homework 3 =>
-Midterm =>
-Homework 4 =>
-Final =>
+Homework 2 => Estimate polynomial interpolation using Lagrange form with Signals and processes
+
+	Usage: 	make
+		./processM pathToFile
+
+Homework 3 => IPC with fifos and shared memory
+
+	Usage: 	make
+		./player –b haspotatoornot –s nameofsharedmemory –f filewithfifonames –m namedsemaphore
+
+Midterm => Simulate COVID-19 vaccination flow with semaphores and processes
+
+	Usage: 	make
+		./program –n 3 –v 2 –c 3 –b 11 –t 3 –i inputfilepath 
+
+Homework 4 => Initiation to POSIX threads 
+
+	Usage: 	make
+		./program homeworkFilePath studentsFilePath 10000 
+
+Final => Implemantation of a Client-Server database management systems like Oracle, IBM, SQL etc. with sockets and threads
+	
+	Implemented SQLs:
+		SELECT
+		SELECT DISTINCT
+		UPDATE
+		(WHERE condition)
+
+	Server is a daemon process
+	Usage: 	make
+		./server -p PORT -o pathToLogFile –l poolSize –d datasetPath
+		./client –i id -a 127.0.0.1 -p PORT -o pathToQueryFile
