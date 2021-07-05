@@ -6,11 +6,7 @@
 CSE344 System Programming Coursework SPRING 2021
         Ubuntu 20.04.2.0 LTS
 
-Homework 1 =>
-
-	“advanced” file search program for POSIX compatible operating
-	systems. Your program must be able to search for files satisfying the given criteria, and print out the
-	results in the form of a nicely formatted tree.
+Homework 1 => advanced file search program for POSIX compatible operating systems.
 
 	How
 	The search criteria can be any combination of the following (at least one of them must be
@@ -23,7 +19,7 @@ Homework 1 =>
 	• -l: number of links
 
 	Usage: 	make
-		./myFind -w targetDirectoryPath -f ‘lost+file‘ -b 100 -t b
+		./myFind -w targetDirectoryPath -f 'lost+file' -b 100 -t b
 
 Homework 2 =>
 Homework 3 =>
